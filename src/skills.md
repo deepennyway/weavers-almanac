@@ -1,5 +1,6 @@
 ---
 title: Skills
+parent: main
 chapter: yes
 order: 5
 ---

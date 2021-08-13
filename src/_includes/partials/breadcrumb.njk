@@ -1,1 +1,9 @@
-{{ collections.all | eleventyNavigationBreadcrumb("Acknowledgments") | dump | safe }}
+
+<aside class="breadcrumb">
+<p>
+{{ collections.all | eleventyNavigationBreadcrumb(title) | eleventyNavigationToHtml({
+    listElement: "ul",
+    listItemElement: "li",
+    listClass: "breadcrumb"
+}) | safe }} | {{ title }}
+</p></aside>

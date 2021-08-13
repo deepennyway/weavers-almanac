@@ -1,5 +1,6 @@
 ---
 title: Basics of Play
+parent: main
 chapter: yes
 order: 6
 ---

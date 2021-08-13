@@ -285,6 +285,10 @@ h1.title {
     margin-top: 0;
     color: var(--accent);
 }
+
+main h1.title {
+    margin-top: .5em;
+}
 article h1.title picture {
     float: none;
 }
@@ -459,6 +463,40 @@ main {
     padding: 0;
     border-radius: .3em;
 }
+
+aside.breadcrumb {
+    text-align: end;
+    margin-right: 2.5em;
+    margin-left: 2.5em;
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+    border-bottom: 1px solid var(--accent);
+    font-style: italic;
+    opacity: .6;
+    border-bottom-left-radius: 1px;
+}
+article + aside.breadcrumb {
+    border-top: 1px solid var(--accent);
+    border-bottom: none;
+    border-top-left-radius: 1px;
+    margin-top: 0;
+    padding-bottom: 1em;
+}
+ul.breadcrumb {
+    list-style: none;
+    display: inline;
+}
+.breadcrumb li {
+    width: auto;
+    display: inline;
+}
+.breadcrumb li:first-child:before {
+    content: none;
+}
+.breadcrumb li:not(first-child):before {
+    content: " | ";
+}
+
 article {
     background: var(--border-top), var(--border-bottom);
     background-attachment: scroll;
@@ -466,7 +504,7 @@ article {
     background-repeat: no-repeat;
     background-position-y: top, bottom;
     background-position-x: left, right;
-    padding: 2.5em;
+    padding: 0 2.5em 2.5em;
     margin: auto;
 }
 

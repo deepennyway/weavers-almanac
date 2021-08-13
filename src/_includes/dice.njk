@@ -2,7 +2,7 @@
 
 {% block toc %}
         <aside class="toc">
-        <h2>{% for post in collections[tags] %}{% if post.data.chapter == 'yes' %}<a aria-current="page" href="{{ post.url }}">{{ post.data.title }}</a>{% endif %}{% endfor %}</h2>
+        <h2>{% for post in collections[tags] %}{% if post.data.title == parent %}<a aria-current="page" href="{{ post.url }}">{{ parent }}</a>{% endif %}{% endfor %}</h2>
         <nav class="toc">
         {% include "partials/toc.njk" %}
         </nav>

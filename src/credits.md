@@ -1,7 +1,7 @@
 ---
-title: Acknowledgments
+title: "Acknowledgments"
+parent: main
 layout: credits.njk
-chapter: yes
 order: 1
 ---
 

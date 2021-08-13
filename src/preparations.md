@@ -1,5 +1,6 @@
 ---
 title: Preparing Your Journal
+parent: main
 chapter: yes
 order: 3
 ---

@@ -1,7 +1,7 @@
 ---
 title: Appendix
-layout: chapter-start.njk
 parent: main
+layout: chapter-start.njk
 chapter: yes
 order: 11
 sort: 5

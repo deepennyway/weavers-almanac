@@ -1,5 +1,5 @@
-        {{ collections[tags] | eleventyNavigation(eleventyNavigation.parent) | eleventyNavigationToHtml({
-            listElement: "ol",
-            activeListItemClass: "active",
-            activeKey: eleventyNavigation.key
-            }) | safe }}
+{{ collections[tags] | eleventyNavigation(eleventyNavigation.parent) | eleventyNavigationToHtml({
+    listElement: "ol",
+    activeListItemClass: "active",
+    activeKey: eleventyNavigation.key
+    }) | safe }}

@@ -33,6 +33,7 @@
                 </ol>
             </nav>
         </aside>
+        
         {% block toc %}
             <aside class="toc">
                 <nav class="toc">
@@ -47,19 +48,22 @@
         <main>
             <texture class="page"></texture>
 
-            {% include "partials/breadcrumb.njk" %}
-
             {% if layout != "title.njk" %}
-                <button class="mobile" onclick="$('.nav').fadeToggle();">Directory</button>
+                {# <button class="mobile" onclick="$('.nav').fadeToggle();">Directory</button> #}
+                {% include "partials/breadcrumb.njk" %}
             {% endif %}
             <article>
-                {% if layout != "title.njk" %}
-                {% endif %}
+
                 {% block content %}
-                <h1>{{ title }}</h1>
-                {{ content | safe }}
+                    <h1>{{ title }}</h1>
+                    {{ content | safe }}
                 {% endblock %}
+
             </article>
+                {% if layout != "title.njk" %}
+                {% include "partials/breadcrumb.njk" %}
+                {% endif %}
+
         </main>
     </grid>
 

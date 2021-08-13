@@ -6,22 +6,15 @@
     </aside>
 
     <aside class="toc">
-        <h2>{% for post in collections[tags] %}
-        {% if post.data.chapter == 'yes' %}
-            <a aria-current="page" href="{{ post.url }}">
-                {{ post.data.title }}
-            </a>
-        {% endif %}
-        {% endfor %}</h2>
+        <h2>{{ parent }}
+            {# {% for post in collections[tags] %}
+                {% if post.data.chapter == 'yes' %}
+                    <a href="{{ post.url }}">{{ post.data.title }}</a>
+                {% endif %}
+            {% endfor %} #}
+        </h2>
         <nav class="toc">
             {% include "partials/toc.njk" %}
-            {# <ol>
-                {%- for post in collections[tags] -%}
-                    {% if post.data.chapter != "yes" %}
-                        <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-                    {% endif %}
-                {%- endfor -%}
-            </ol> #}
         </nav>
     </aside>
 

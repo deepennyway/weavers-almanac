@@ -1,8 +1,9 @@
 ---
-title: "main"
-parent: none
+title: main
 order: -2
 layout: title.njk
+eleventyNavigation:
+    title: "Mnemonic: A Weaver's Almanac"
 description: An extensive resource for playing out longer stories in the world of Mnemonic, for groups that want to experience what might be called traditional-style roleplaying games.
 ---
 
