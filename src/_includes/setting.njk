@@ -1,0 +1,15 @@
+{% extends "chapter.njk" %}
+
+{% block content %}
+    <h1>{{ title }}</h1>
+    
+    {% if art %}{% image art, arttext, "hero" %}{% endif %}
+        {% if byline %}
+            <h2 class="author">written by {% byline credits, byline %}</h2>
+        {% endif %}
+        {% if artist %}
+            <h2 class="artist">illustrated by {% byline credits, artist %}</h2>
+        {% endif %}
+
+{{ content | safe }}
+{% endblock %}

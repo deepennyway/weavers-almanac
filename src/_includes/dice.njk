@@ -1,0 +1,49 @@
+{% extends "base.njk" %}
+
+{% block toc %}
+        <aside class="toc">
+        <h2>{% for post in collections[tags] %}{% if post.data.chapter == 'yes' %}<a aria-current="page" href="{{ post.url }}">{{ post.data.title }}</a>{% endif %}{% endfor %}</h2>
+        <nav class="toc">
+        {% include "partials/toc.njk" %}
+        </nav>
+    </aside>
+
+{% endblock %}
+
+{% block content %}
+
+    <h1>The {{ title }} Die</h1>
+        {% if byline %}
+            <h2 class="author">written by {% byline credits, byline %}</h2>
+        {% endif %}
+        {% if artist %}
+            <h2 class="artist">illustrated by {% byline credits, artist %}</h2>
+        {% endif %}
+    {% if description %}
+    <blockquote>{{ description | markdownify | safe }}</blockquote>
+    {% endif %}
+
+
+    {% if art %}{% image art, arttext, "narrow" %}{% endif %}
+
+    {{ content | safe }}
+    {% if effect %}
+    <table class="weaving">
+        <thead>
+            <tr>
+                <th>Roll</th>
+                <th>Effect</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for roll, result in effect %}
+            <tr>
+                <td>{{ roll | capitalize }}</td>
+                <td>{{ result | markdownify | safe }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+
+{% endblock %}

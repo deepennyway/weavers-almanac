@@ -1,0 +1,64 @@
+{% extends "base.njk" %}
+
+{% block toc %}
+{% endblock %}
+
+{% block content %}
+<section class="credits">
+<h1>{{ title }}</h1>
+{{ content | safe }}
+
+<h2>The Core Team</h2>
+{% for item in credits %}
+    {% if item.coreteam %}
+    <p>{{ item.fullname }}</p>
+    {% endif %}
+{% endfor %}
+
+<h2>Accessibility</h2>
+{% for item in credits %}
+    {% if item.accessibility %}
+    <p>{{ item.fullname }}</p>
+    {% endif %}
+{% endfor %}
+
+<h2>Additional Contributors</h2>
+{% for item in credits %}
+    {% if not item.accessibility and not item.coreteam %}
+    <p>{{ item.fullname }}</p>
+    {% endif %}
+{% endfor %}
+
+<h2>Team Biographies</h2>
+{% for item in credits %}
+    {% if item.bio %}
+    <table class="bio">
+        <thead>
+            <tr>
+                <th>{{ item.fullname}} {% if item.pronouns %}({{item.pronouns}}){% endif %}</th>
+                <th class="roles">{{ item.roles | join(", ") }}</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="2">
+                    {% if item.headshot %}{% image item.headshot, item.fullname %}{% endif %}
+                    {{ item.bio | markdownify | safe }}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    {% endif %}
+{% endfor %}
+</section>
+
+<section>
+<h2>Fonts</h2>
+<p>This book used the following Google Fonts:</p>
+<ul>
+{% for x, font in site.googlefonts %}
+    <li><strong>{{ x | capitalize }}:</strong> {{ font }}</li>
+{% endfor %}
+</ul>
+</section>
+{% endblock %}

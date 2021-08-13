@@ -1,0 +1,101 @@
+@media print {
+  .print-notice {
+    display: none;
+  }
+
+    body {
+        display: block !important;
+        border-image-source: none !important;
+        background: none !important;
+        margin: 0;
+        padding: 0;
+        position: static !important;
+        overflow: auto !important;
+        height: 100%;
+        width: 100%;
+        font-size: 14pt; }
+        body texture {
+          display: none; }
+      main {
+        display: block !important;
+        margin: auto !important;
+        padding: 0 !important;
+        height: 100%;
+        box-decoration-break: clone;
+        overflow: auto !important; }
+      article {
+        box-decoration-break: slice;
+        filter: none;
+        border-image-source: none;
+        background: none;
+        overflow: auto !important;
+        margin: auto !important;
+        padding: 0 .25in !important;
+        width: auto !important;
+        height: 100%;
+        max-width: 100% !important;
+        display: block;
+        box-shadow: none;
+        orphans: 2;
+        widows: 2; }
+        article hr {
+          display: block !important;
+          break-after: always !important; }
+        table {
+          font-family: var(--blockquote-font);
+          break-inside: avoid;
+          margin: 0;
+          box-sizing: border-box;
+          font-size: .8em; 
+        }
+        texture {
+          display: none; }
+        article a {
+          opacity: 1 !important; }
+        article blockquote {
+          page-break-inside: avoid;
+          mix-blend-mode: normal; }
+        article h1 {
+          page-break-before: always; }
+        article h1:first-of-type {
+          page-break-before: avoid !important; }
+        article h1, article h2, article h3 {
+          page-break-after: avoid; }
+
+
+
+    body {
+        background: none;
+        position: static;
+        border-image-source: var(--paper);
+        overflow: auto;
+        height: auto;
+    }
+
+    texture.page {
+        display: none !important;
+    }
+
+    aside {
+        display: none;
+    }
+
+    main {
+        border-image: none;
+        background: none;
+    }
+    grid.nav {
+        display: none;
+    }
+
+    button {
+        display: none !important;
+    }
+    hr {
+        break-after: always;
+        display: block !important;
+    }
+    @page {
+        margin: .25in;
+    }
+}

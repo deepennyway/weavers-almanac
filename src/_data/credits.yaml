@@ -1,0 +1,246 @@
+- code: deepennyway
+  coreteam: yes
+  fullname: Dee Pennyway
+  shortname: Dee
+  byline: Dee, the Weaver in Green
+  roles:
+    - Project Manager
+    - Layout Designer
+    - Writer
+  pronouns: they/them
+  twitter: MnemonicRPG
+  itchio: mnemonicrpg
+  headshot: Dee-Headshot.jpg
+  web: https://mnemonicrpg.com
+  bio: |
+    Dee started as an Assistant Producer working at Beamdog on titles like *Baldur's Gate: Enhanced Edition*, and they have since been working to write tabletop games set in the world of *Mnemonic*.
+
+    *A Weaver's Almanac* represents their first "core rulebook", their first crowdfunded project, and their first project as team lead.
+
+- code: sin
+  coreteam: yes
+  fullname: Sinta Posadas
+  shortname: Sin
+  byline: Sin, the Weaver in Blue
+  pronouns: they/them
+  twitter: diwataMANILA
+  itchio: diwatamnl
+  headshot: Sinta Posadas.png
+  web: https://patreon.com/diwatamnl
+  bio: |
+    Sin is a game designer and illustrator from the Philippines who lives in Manila with their loving partner and their rambunctious cat. They make games about love, loss, and revolution and much of the professional art they do gets used in various tabletop projects. They wish to keep at this so that they may continue to feed their voidling of a cat.
+  roles:
+    - Art Director
+    - Writer
+
+- code: lexi
+  coreteam: yes
+  fullname: Lexi Antoku
+  twitter: Lexi_UNDEFINED
+  shortname: Lexi
+  byline: Lexi Antoku
+  pronouns: they/she
+  itchio: lexi-limerick
+  roles: 
+    - Editor
+    - Writer
+
+- code: guanzon
+  coreteam: yes
+  fullname: Christian Guanzon
+  shortname: Guanzon
+  byline: Guanzon
+  pronouns: he/him
+  roles:
+    - Writer
+
+- code: nem
+  coreteam: yes
+  fullname: Liam Ginty
+  shortname: Liam
+  byline: Liam Ginty
+  pronouns: they/them
+  twitter: SandyPugGames
+  itchio: SandyPugGames
+  web: https://SPG.crd.co
+  roles:
+    - Project Managing Consultant
+
+- code: pammu
+  coreteam: yes
+  fullname: Pamela Punzalan
+  shortname: Pamela
+  byline: Pamela Punzalan
+  pronouns: she/they
+  bio: |
+    Pam is a queer designer, editor, cultural consultant and sensitivity reader based in Manila. She's done work for projects big and small, such as Spire, World of Darkness, The Islands of Sina Una, the D&D Ancestry and Culture Zine, and Thirsty Sword Lesbians. Her personal works include Sundo: We Once Mortal and Navathem's End.
+  twitter: TheDovetailor
+  itchio: thedovetailor
+  web: https://thedovetailor.com/
+  headshot: Pam Punzalan.jpg
+  roles:
+    - Writer
+
+
+- code: synxiec
+  coreteam: yes
+  fullname: Marquis Dugger
+  shortname: Marquis
+  byline: Synxiec, the Weaver in Sunflower
+  pronouns: he/him
+  roles:
+    - Writer
+
+- code: nic
+  coreteam: yes
+  fullname: N. Masyk
+  shortname: Nicholas
+  byline: N. Masyk
+  twitter: monkeyspawgames
+  itchio: monkeys-paw-games
+  web: https://www.monkeyspawgames.com
+  bio: |
+    Nic is a biracial Black writer, editor, layout artist, producer, distributor, and publisher of tabletop role-playing games based out of Eastern Canada. Nic's games seek to inject anti-colonial, anti-racist, and anti-fascist narratives into the lens of science fiction, fantasy, and horror.
+
+    In addition to Mnemonic, Nic has written for such projects as Trophy, Spire, Candlelight, Codex, Token, There's Something In The Ice, Disc Horse, Scrap's Burgers, the San Jenaro Short Games Digest, and Nic's own projects: UNCONQUERED, Chalice, Into the Black, and others.
+  roles:
+    - Writer
+
+
+- code: brandon
+  coreteam: yes
+  fullname: Brandon O'Brien
+  shortname: Brandon
+  byline: Brandon O'Brien
+  pronouns: he/they
+  roles:
+    - Writer
+
+- code: vince
+  coreteam: yes
+  fullname: Vincent Smith
+  shortname: Vince
+  byline: Vincent Smith
+  pronouns: he/him
+  roles:
+    - Writer
+
+- code: yubi
+  accessibility: yes
+  fullname: Yubi
+  shortname: Yubi
+  byline: Yubi
+  pronouns: they/them
+  twitter: uzbadyubi
+  itchio: yubikun
+  headshot: Yubi C.png
+  bio: |
+    Yubi lives in Scotland and is passionate about digital accessibility in the TTRPG sphere, historical sewing, and cats. They design their own games, run an actual play podcast, and help make a wide range of TTRPG projects more accessible to more people.
+  roles:
+    - Accessibility Consultant
+
+
+- code: max
+  fullname: Max Fefer
+  twitter: HydroForge
+  itchio: hydroforge
+  byline: Max Fefer
+  pronouns: No Pronouns
+  headshot: Max Fefer.png
+  bio: |
+    Max is a TTRPG designer who is a water resources engineer by day and an outdoor enthusiast all the time. Max designs GM-agnostic and lyric games with a wide range of themes, from interacting with surrounding ecosystems to Judaism.
+  roles:
+    - Writer
+
+- code: crimsonstripes
+  fullname: Rick Chia
+  byline: Crimson Stripes
+  twitter: Crimson_Stripes
+  itchio: CrimsonStripes
+  headshot: rick_comm - Crimson Stripes.jpg
+  web: https://t.co/K3pS7V8rmE?amp=1
+  bio: |
+    Chronic reader in the streets, lazy writer in the sheets. Keep cool, mate. 
+  roles:
+    - Writer
+
+- code: valis
+  fullname: Valis Teoh
+  twitter: valistarri
+  byline: Valis Teoh
+  roles:
+    - Writer
+
+- code: sam
+  fullname: Samuel Mui Shen Ern
+  byline: Samuel Mui Shen Ern
+  twitter: BabblegumSam
+  itchio: BabblegumSam
+  web: https://twitter.com/BabblegumSam
+  headshot: Samuel Mui.jpg
+  pronouns: he/any
+  bio: |
+    Samuel Mui Shen Ern is a game designer, writer, editor, musician, and visual artist from Malaysia. Their works explore real-world topics like death, relationships, and emotional brokenness with an unwaveringly brutal honesty and a sense of fun(?)! When she’s not working on hir next big thing, he’s probably zoning out to k-pop, experimenting in the kitchen, or telling people to watch Tokyo Gore Police.
+  roles:
+    - Writer
+
+- code: noordin
+  fullname: Noordin Ali Kadir
+  byline: Noordin Ali Kadir, The Wolf-Weaver
+  pronouns: He/Him
+  twitter: WerewolfFeels
+  web: https://noordinalikadir.carrd.co/
+  headshot: Adam-Ali - Noordin Ali Kadir.jpg
+  bio: |
+    Noordin Ali is a freelance TTRPG designer, writer and consultant based currently in Canada. His credits include everything from Jiangshi: Blood in the Banquet Hall to Southlands 5e, and as such his approach can shift from time to time. Some things are consistent, however: bend, never break. Tell fascinating and enveloping stories. Be cognizant of potential harm.
+
+    There's nothing better than telling a hard to tell story as safely as you can. Except a chocolate malt. Or werewolves.
+  roles:
+    - Writer
+
+- code: fidelis
+  fullname: Fidelis Tan
+  byline: inthegrayworld
+  roles:
+    - Writer
+
+- code: kyle
+  fullname: Kyle Tam
+  byline: Kyle Tam
+  roles:
+    - Writer
+
+- code: sen
+  fullname: Sen.H.H.S.
+  byline: Sen.H.H.S.
+  twitter: SenHHS
+  pronouns: she/her
+  bio: |
+    Yvonne, pen name Sen H.H.S., is a Taiwanese freelance TTRPG writer who has both self-published and written for acclaimed publishers such as Paizo and the Unbreakable Anthology.
+  itchio: kittymaverick
+  web: https://senhhs.carrd.co
+  headshot: Kitty Maverick.jpg
+  roles:
+    - Writer
+
+- code: alyssa
+  fullname: Alyssa Manalili
+  byline: Alyssa Manalili
+  pronouns: they/them 
+  twitter: wasabotte
+  headshot: Wasa Botte.jpg
+  bio: |
+    Wasa's first foray into the world of TTRPG began with the 5E Module Sina Una. A catalyst for their journey, they have since begun to delve into freelance content creation - with a key focus on worldbuild writing and designing. 
+  roles:
+    - Writer
+
+- code: beezelda
+  fullname: Bee Zelda
+  byline: Bee Zelda
+  shortname: Bee
+  pronouns: they/them
+  bio: |
+    Bee Zelda is a non binary podcaster, ttrpg streamer and content creator.  
+  twitter: bee_zelda
+  roles:
+    - Writer

@@ -1,0 +1,44 @@
+{% extends "base.njk" %}
+
+{% block toc %}
+{% endblock %}
+
+{% block content %}
+<style>
+    main {
+        min-height: 100%;
+    }
+</style>
+<header class="title-page">
+{% if illustration %}
+    {% image illustration, illustration-text, "cover" %}
+{% endif %}
+<h1 class="title">{% image site.logo, site.title, "title" %}</h1>
+<h2 class="byline">by {{ site.author }}</h2>
+<h2 class="byline">illustrated by {{ site.illustrator }}</h2>
+
+
+<section class="summary">
+    {{ content | safe }}
+</section>
+<hr>
+
+</header>
+
+<blockquote class="print-notice"><strong>Need to Print It?</strong> Every page in this digital book is printer-ready; just print it through your web browser and select the desired page size. I recommend printing out chapters you think you may need to reference repeatedly, or opening them in a separate tab in your web browser so that you can access them easily without losing your place while reading.</blockquote>
+
+<section class="table-of-contents">
+    <h2>Table of Contents</h2>
+                {{ collections.all | eleventyNavigation("main") | eleventyNavigationToHtml({
+                    listElement: "ol",
+                    listClass: "contents",
+                    anchorClass: "active",
+                    activeAnchorClass: "active",
+                    activeKey: eleventyNavigation.key
+                    }) | safe }}
+</section>
+
+
+
+
+{% endblock %}

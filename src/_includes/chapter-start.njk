@@ -1,0 +1,41 @@
+{% extends "base.njk" %}
+
+{% block toc %}
+    <aside class="toc">
+        <nav class="toc">
+            <h2>{{ title }}</h2>
+            {% include "partials/chapter-toc.njk" %}
+        </nav>
+    </aside>
+{% endblock %}
+
+{% block content %}
+
+<style>
+    main {
+        min-height: 100%;
+    }
+</style>
+
+{% if illustration %}
+    {% image illustration, illustration-text, "cover" %}
+{% endif %}
+    <h1>{{title }}</h1>
+    {{ content | safe }}
+
+<h2>In This Chapter:</h2>
+
+<ol class="contents">
+
+    {% set navPages = collections[tags] | eleventyNavigation(eleventyNavigation.key) %}
+        {%- for entry in navPages %}
+        <li{% if entry.url == page.url %} class="active"{% endif %}>
+            <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+            {% if entry.byline %}<em> by {% for author in credits %}{% if author.code == entry.byline %}{{ author.byline }}{% endif %}{% endfor %}</em>{% endif %}</li>
+
+        </li>
+        {%- endfor %}
+
+</ol>
+
+{% endblock %}

@@ -1,0 +1,22 @@
+title: Mnemonic - A Weaver's Almanac
+logo: "logo.png"
+author: "a Circle of Weavers"
+illustrator: "Sinta Posadas"
+favicon: "favicon.png"
+googlefonts:
+    title: "Yanone Kaffeesatz"
+    heading: "Cinzel"
+    body: "EB Garamond"
+    sidebar: "Cormorant Garamond"
+    dropcap: "Cinzel"
+style:
+    accent: "#700"
+    sidebartext: "#333"
+    sidebarback: "#047"
+    paperbg: "#efefef"
+    paper: "honey.png"
+    cover: "book.png"
+    bodycolor: "#333"
+    velvet: "velvet.png"
+    texture: "diamonds.png"
+    bgaccent: "#710"

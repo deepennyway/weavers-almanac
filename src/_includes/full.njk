@@ -1,0 +1,11 @@
+{% extends "base.njk" %}
+
+{% block content %}
+    <h1>{{ title }}</h1>
+    {%- for post in collections.myCustomSort -%}
+        {% if post.data.book == undefined %}
+            <h1>{{ post.data.title }}</h1>
+            {{ post.data.content | safe }}
+        {% endif %}
+    {%- endfor -%}
+{% endblock %}

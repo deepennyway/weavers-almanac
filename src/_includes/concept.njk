@@ -1,0 +1,13 @@
+{% extends "chapter.njk" %}
+
+{% block content %}
+    <h1>{{ title }}</h1>
+    {% if art and arttext %}{% image art, arttext, "very-narrow" %}{% endif %}
+
+        {% if tagline %}
+            <h2 class="tagline">{{ tagline }}</h2>
+        {% endif %}
+
+    {{ content | safe }}
+
+{% endblock %}

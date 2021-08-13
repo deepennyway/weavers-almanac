@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if site.favicon %}<link rel="icon" href="{% imagecss site.favicon %}">{% endif %}
+    <title>{% if layout != "title.njk" %}{{ title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="/css/print.css" media="print" rel="stylesheet" />
+    {% if site.googlefonts %}
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link href="https://fonts.googleapis.com/css2?{% for x, font in site.googlefonts %}family={{ font }}:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&{% endfor %}display=swap" rel="stylesheet">
+    {% endif %}
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <texture class="recolor"></texture>
+    <grid class="nav">
+        <button class="mobile" onclick="$('.nav').fadeToggle();">Directory</button>
+        <aside class="toc">
+                <h1 class="title"><a href="/">{% image site.logo, site.title, "title" %}</a></h1>
+                <h2>Chapters:</h2>
+            <nav class="toc">
+            {% set navPages = collections.all | eleventyNavigation("main") %}
+                <ol>
+                {%- for entry in navPages %}
+                <li{% if entry.url == page.url %} class="active"{% endif %}>
+                    <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+                </li>
+                {%- endfor %}
+                </ol>
+            </nav>
+        </aside>
+        {% block toc %}
+            <aside class="toc">
+                <nav class="toc">
+                {{ content | toc( wrapper='nav', wrapperClass='toc', headingText='On This Page:') | safe }}
+                </nav>
+            </aside>
+        {% endblock %}
+
+    </grid>
+
+    <grid class="main">
+        <main>
+            <texture class="page"></texture>
+
+            {% include "partials/breadcrumb.njk" %}
+
+            {% if layout != "title.njk" %}
+                <button class="mobile" onclick="$('.nav').fadeToggle();">Directory</button>
+            {% endif %}
+            <article>
+                {% if layout != "title.njk" %}
+                {% endif %}
+                {% block content %}
+                <h1>{{ title }}</h1>
+                {{ content | safe }}
+                {% endblock %}
+            </article>
+        </main>
+    </grid>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="/__/firebase/8.6.8/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <!-- Initialize Firebase -->
+    <script src="/__/firebase/init.js"></script>
+
+</body>
+</html>
