@@ -1,5 +1,6 @@
 ---
 title: "A Note About Safety"
+byline: deepennyway
 parent: main
 description: A quick note about safety in your group.
 chapter: yes

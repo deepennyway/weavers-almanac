@@ -236,16 +236,16 @@ main .contents li {
     background: var(--background), radial-gradient(circle at 0%, var(--sidebar-back) 60%, transparent 95%);
     color: var(--paper-bg);
     background-blend-mode: luminosity;
-    mask-image: radial-gradient(circle at 0%, var(--accent) 60%, transparent 95%);
+    mask-image: radial-gradient(circle at 0%, var(--accent) 80%, transparent 95%);
 }
 
 .listing a:hover,
 .toc a:hover,
-.toc li.active {
+.toc li.active a {
     background: var(--background), radial-gradient(circle at 0%, var(--sidebar-back) 60%, transparent 95%);
     color: var(--paper-bg);
     background-blend-mode: luminosity;
-    mask-image: radial-gradient(circle at 0%, var(--accent) 60%, transparent 95%);
+    mask-image: radial-gradient(circle at 0%, var(--accent) 80%, transparent 95%);
 }
 
 picture.grayscale {
@@ -331,6 +331,7 @@ p {
     margin: .5em 0;
 }
 
+header + p::first-line,
 h1 + p::first-line,
 h1 + picture + p::first-line,
 h1 + blockquote + picture + p::first-line,
@@ -339,12 +340,13 @@ h1 + blockquote + p::first-line,
     font-variant: all-small-caps;
 }
 
+header + p::first-letter,
 h1 + p::first-letter,
 h1 + picture + p::first-letter, 
 h1 + blockquote + picture + p::first-letter,
 h1 + blockquote + p::first-letter,
 .tagline + p::first-letter {
-    font-size: 4.93250172rem;
+    font-size: 4.8rem;
     line-height: .5;
     float: left;
     padding-right: 4px;
@@ -448,6 +450,16 @@ main a:hover {
     filter: drop-shadow(1px 1px 0 var(--body-color));
 }
 
+a svg {
+    vertical-align: text-top;
+    opacity: .6;
+    transition: .4s;
+}
+
+a svg:hover {
+    opacity: 1;
+}
+
 main {
     width: 80ch;
     max-width: 90%;
@@ -489,6 +501,11 @@ ul.breadcrumb {
 .breadcrumb li {
     width: auto;
     display: inline;
+    white-space: nowrap;
+}
+
+.breadcrumb .current {
+    white-space: nowrap;
 }
 .breadcrumb li:first-child:before {
     content: none;
@@ -681,11 +698,16 @@ th {
 }
 
 table {
-    padding: .5em;
+    padding: .5em 0;
     margin-right: 1em;
     margin-top: 1em;
     border-spacing: 0;
     width: 100%;
+}
+table + table,
+p + table {
+    margin-top: -.5em;
+    padding-top: 0;
 }
 
 table.weaving td:first-child {
@@ -694,6 +716,16 @@ table.weaving td:first-child {
 
 td > p:first-child {
     margin-top: 0;
+}
+
+table td:first-child,
+table th:first-child {
+    padding-left: 0;
+}
+
+table td:last-child,
+table th:last-child {
+    padding-right: 0;
 }
 
 hr {

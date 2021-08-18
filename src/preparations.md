@@ -9,10 +9,15 @@ Before you begin developing your character, you'll need a workspace for keeping 
 
 (Much of this can also work well for a digital notebook if paper isn't a viable option.)
 
-## Choosing A Journal
+## Choosing the Right Journal For You
 I have a hard time coming back to a journal if I don't like the way it feels to hold and write in it. I have a wide collection of empty journals or journals with a few pages of writing in the front and then nothing else. I have expensive journals I never use because they make me feel like I have to Write Quality Writing, and that's not helpful when I just want to write.
 
 So if you're like me, don't use a journal you won't want to return to. Find something comfortable *for you*.
+
+> ### Do I really need all this space?
+> The short answer is no. You could fit just about everything you need on a single letter-size sheet of blank or lined paper, and if you're only going to play the game once or only a few sessions with the same character, that might be a better fit.
+> 
+> The reason I like a journal or notebook is that it leaves room for more details to be added as I need them, it keeps my character together so it's easy to find what I need when I need it, and it's less likely to get lost or *accidentally recycled* between sessions.
 
 ## Setting Things Just So
 Now that you have a journal you like, it's time to set up your workspace.
@@ -25,25 +30,16 @@ You'll fill in the details as you go, but for now it might be a good idea to set
 - Name
 - Pronouns
 - Strong Suit
-- Current Stress
+- Weak Suit
 
 You can also, optionally, leave space to describe your character's home community, their species (if that's important to you or them), and any other details you want to be at the very front of your journal.
 
-> **Write in pencil.** Some of the things on this page might change as the story progresses!
+> **Write in pencil.** Some of the things on this page might change as the story progresses.
 
 ### The Group
 You won't know anything about the other characters in your group until you sit down and play with them, but I recommend making space in your journal to fill in some basic details about them. At the very least, you'll want to include the name and pronouns of everyone you travel with, so that when you engage with them in the story, you know how to refer to them.
 
-### Injuries
-On the next right-hand page, write the word "Injuries" at the top, and set up the following column headings:
-
-- Injury
-- Severity
-- Description
-
-Don't worry about filling in this table; you'll use this page when your character suffers injuries during play.
-
-> **Again, write in pencil.** You'll need to be able to change and erase entries from this table as you play!
+> **Again, write in pencil.** You'll need to be able to change and erase things as you play!
 
 ### The Suit Pages
 Your character's skills and abilities will be organized into four groups, tied to the four suits of a poker deck. You *can* put them all on one page, but in order to give you room to grow, I recommend giving each suit its own full piece of paper, so:
@@ -67,3 +63,4 @@ The rest of the journal is reserved for describing your character's journey. Kee
 
 ## That's it!
 That's all you need to do to get your journal ready for play. But you can add details if you're feeling inspired: decorations on each of the suit pages, a space for adding maps, anything you like. Make this your favorite place to think about your character and the story they're in.
+

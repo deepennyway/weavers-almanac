@@ -8,6 +8,8 @@
             <h2 class="tagline">{{ tagline }}</h2>
         {% endif %}
 
+
     {{ content | safe }}
+    {% include "partials/skills.njk" %}
 
 {% endblock %}

@@ -9,27 +9,38 @@
 
 
 <section class="credits">
+<header>
 <h1>{{ title }}</h1>
+</header>
 {{ content | safe }}
 
 <h2>The Core Team</h2>
 {% for item in credits %}
     {% if item.coreteam %}
-    <p>{{ item.fullname }}</p>
+    <p>{{ item.fullname }}
+        {% if item.twitter %} {% include "partials/twitter.njk" %}{% endif %}
+        {% if item.itchio %} {% include "partials/itchio.njk" %}{% endif %}
+        {% if item.web %} {% include "partials/web.njk" %}{% endif %}</p>
     {% endif %}
 {% endfor %}
 
 <h2>Accessibility</h2>
 {% for item in credits %}
     {% if item.accessibility %}
-    <p>{{ item.fullname }}</p>
+    <p>{{ item.fullname }}
+        {% if item.twitter %} {% include "partials/twitter.njk" %}{% endif %}
+        {% if item.twitter %} {% include "partials/itchio.njk" %}{% endif %}
+        {% if item.web %} {% include "partials/web.njk" %}{% endif %}</p>
     {% endif %}
 {% endfor %}
 
 <h2>Additional Contributors</h2>
 {% for item in credits %}
     {% if not item.accessibility and not item.coreteam %}
-    <p>{{ item.fullname }}</p>
+    <p>{{ item.fullname }}
+        {% if item.twitter %} {% include "partials/twitter.njk" %}{% endif %}
+        {% if item.twitter %} {% include "partials/itchio.njk" %}{% endif %}
+        {% if item.web %} {% include "partials/web.njk" %}{% endif %}</p>
     {% endif %}
 {% endfor %}
 
@@ -39,7 +50,10 @@
     <table class="bio">
         <thead>
             <tr>
-                <th>{{ item.fullname}} {% if item.pronouns %}({{item.pronouns}}){% endif %}</th>
+                <th>{{ item.fullname}} {% if item.pronouns %}({{item.pronouns}}){% endif %}
+                {% if item.twitter %} {% include "partials/twitter.njk" %}{% endif %}
+                {% if item.twitter %} {% include "partials/itchio.njk" %}{% endif %}
+                {% if item.web %} {% include "partials/web.njk" %}{% endif %}</th>
                 <th class="roles">{{ item.roles | join(", ") }}</th>
             </tr>
         </thead>

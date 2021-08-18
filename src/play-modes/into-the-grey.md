@@ -11,13 +11,10 @@ For this variation, you'll need enough dice for everyone, as well as a deck of c
 
 Deal the face cards out to the players one at a time until none are left; then deal out the numbered cards in the same way. Deal out the Jokers last.
 
-To play, follow this pattern of phases:
-- **Exploration:** Have each player play an Individual Scene, choosing a card from their hand to frame each scene.
-    > After everyone has played a scene, if there are no Complications, repeat the **Exploration** phase. Otherwise, continue to **Resolution**.
-- **Resolution:** Play out a single Group Scene, using the accumulated Complications as fuel. Have each player choose a card from their hand to frame their actions in the scene.
+Once the cards are dealt out, follow the [Basics of Play](/basics/) to play out rounds of Individual Scenes and Group Scenes. Each time a player uses a skill, they must play a card from their hand that matches the skill's suit, and then discard it.
 
-After each Resolution, take a short break to let everyone breathe, stretch, grab a snack, drink some water, and take care of any other needs. When the group comes back together, take a moment to get everyone settled, and then decide whether to repeat the pattern or end the game here.
+You can continue in this way until all of the cards have been discarded, or (more likely) until you run out of time for your play session. I recommend taking a short break after each round of Individual Scenes to give players time to grab a snack, drink some water, or attend to any other pressing needs.
 
-Continue in this way as desired, or until there are no cards left to play. When the cards are gone, that means your group has established everything you need in order to form a cohesive understanding of the current story arc. You can reshuffle the deck and play again with that understanding, or you can play *Deck Burner* to resolve a more specific conflict.
+When the cards are gone, that means your group has established everything you need in order to form a cohesive understanding of the current story arc. You can reshuffle the deck and play again with that understanding, or you can play *Deck Burner* to resolve a more specific conflict.
 
 > You will probably not be able to play through the whole deck in a single play session. To make things easier, I recommend having everyone write down what cards they have in their journal, and crossing each card out as it's played; that way, if you need to pick up the same game later, you won't have to physically keep track of the cards. You don't even need to use the same deck.

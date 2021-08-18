@@ -28,22 +28,39 @@ If you want your character to be able to call on magic in a more controlled mann
 
 Note that having a weaving listed as a skill doesn't give you special advantages when using the Weaving mechanics; if you perform a weaving during an Individual Scene, you still roll a single die and you still risk injury. Using a skill tied to one of the weaving dice is not the same as accepting a weaving die; when you use it as a skill, you're using your skill at weaving to achieve a specific desired outcome.
 
-## Improving Your Skills
-A skill's rating improves by 1 immediately in any of the following circumstances:
 
-- **Moment of Inspiration:** When using a given skill during an Individual or Group Scene, your *lowest* rolled result is a 6.
-- **The Weaver's Lesson:** When using a given skill during an Individual or Group Scene, your *highest* rolled result is a 1.
+## How Skills Work
+When you use a skill, you roll a number of dice equal to the skill's rating. So if you have a rating of 3, you roll *three dice*. Then look at the highest rolled result:
+- If it's a 6, you manage to use your skill to complete your objective in the scene.
+- If it's *not* a 6, you still use your skill to complete your objective (you can't fail in that regard), but the skill becomes **Complicated**.
+    > A complicated skill means that something happens as a result of your actions that hurts you or someone else in ways you didn't expect, and until you repair that harm you can't use the same skill again.
+    >
+    > Complicated skills are repaired during **group scenes**.
 
-Each skill can only benefit from one of these avenues of learning per session, and all three of the above methods of improvement must be used before a single method can be used again.
+### Avoiding Complications
+You might not want to suffer the complications related to your actions in that scene. You can do this by asking another player to roll a **weaving die** on your behalf, invoking the power of the world's memories. More information on that is provided in the [Weaving Dice](/dice/) chapter, but briefly, the other player chooses a type of memory for the weaving, and then rolls a single d6 to determine the effects:
+- On anything other than a 1 or 6, the weaving completes without incident (more or less).
+- On a 1 or 6, the weaving either does too little or becomes an uncontrolled catastrophe that you then must deal with on your own to stop things getting even worse. In both cases, the suit for the skill you used in that scene becomes **Injured**.
+    > An injured suit means that you have wounded or overexerted yourself in a serious way, and until you take time to recover, you cannot use *any* skill from that suit.
+    > 
+    > You can recover an injured suit by playing through the [A Moment Alone](/play-modes/alone/) play mode, which is designed to take the place of an **individual scene** for your character.
 
-Alternatively, if your group is following a story arc, you can say that each skill can only benefit from each method once per story arc.
+Regardless of the result, the skill's complication is removed.
 
-## Learning New Skills
-If you want your character to be able to do something but you've never done it before and it's not currently a skill, you can roll it with a rating of 0. When you use a skill with a rating of 0, you roll zero dice, which means that a result of 6 is impossible; in an Individual Scene, this always results in a Complication.
+### Improving Your Skills
+When you use a skill, if all of your dice are either 1s or 6s, you learn something new about that skill and how you use it. Maybe it's a moment of inspiration; maybe it's an...educational mistake.
 
-After resolving the Complication in a Group Scene, record that skill in your journal with a rating of 1.
+In either case, the skill's rating improves by 1.
 
-> ## Optional Rule: Universal Truth
+### Learning New Skills
+If you want your character to be able to do something that they have no current skills for, you can. First, **name the skill** and record it in your journal. Then, roll a single d6:
+
+- **1 (Bend):** Give the skill a rating of *1*. The skill becomes **complicated**.
+- **2-3 (Weave):** Give the skill a rating of *1*.
+- **4-5 (Fray):** Give the skill a rating of *2*. The skill becomes **complicated**.
+- **6 (Tear):** Give the skill a rating of *2*. The skill's suit becomes **injured**.
+
+> ### Optional Rule: Universal Truth
 > As an option, your group can decide that once a skill reaches a rating of 6, the character's skill becomes a kind of universal truth for the world of the story. Mark the action with a star or something to let you know it’s special. Color it with a highlighter. It’s special now.
 >
 > A skill that has been marked as a universal truth cannot be further improved.

@@ -15,7 +15,7 @@
   bio: |
     Dee started as an Assistant Producer working at Beamdog on titles like *Baldur's Gate: Enhanced Edition*, and they have since been working to write tabletop games set in the world of *Mnemonic*.
 
-    *A Weaver's Almanac* represents their first "core rulebook", their first crowdfunded project, and their first project as team lead.
+    *A Weaver's Almanac* represents their first "core rulebook", their first crowdfunded project, and their first project as team lead. Any page that does not include a "Written by" tagline was written by Dee.
 
 - code: sin
   coreteam: yes
@@ -118,6 +118,7 @@
 
 - code: vince
   coreteam: yes
+  twitter: DichotomusPrime
   fullname: Vincent Smith
   shortname: Vince
   byline: Vincent Smith

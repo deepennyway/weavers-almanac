@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="{% imagecss 'twitter-card.png' %}" />
+    <meta property="og:title" content="{% if layout != "title.njk" %}{{ title }} | {% endif %}{{ site.title }}">
+    <meta property="og:description" content="{{ content | truncate(140) }}">
+    <meta name="twitter:title" content="{% if layout != "title.njk" %}{{ title }} | {% endif %}{{ site.title }}">
+    <meta name="twitter:image" content="{% imagecss 'twitter-card.png' %}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="{% if layout != "title.njk" %}{{ content | truncate(140) }}{% endif %}">
+
     {% if site.favicon %}<link rel="icon" href="{% imagecss site.favicon %}">{% endif %}
     <title>{% if layout != "title.njk" %}{{ title }} | {% endif %}{{ site.title }}</title>
     <link rel="stylesheet" href="/css/style.css">
@@ -20,7 +28,7 @@
     <grid class="nav">
         <button class="mobile" onclick="$('.nav').fadeToggle();">Directory</button>
         <aside class="toc">
-                <h1 class="title"><a href="/">{% image site.logo, site.title, "title" %}</a></h1>
+                <h1 class="title"><a href="/">{% image site.logowhite, site.title, "title" %}</a></h1>
                 <h2>Chapters:</h2>
             <nav class="toc">
             {% set navPages = collections.all | eleventyNavigation("main") %}
@@ -55,7 +63,13 @@
             <article>
 
                 {% block content %}
-                    <h1>{{ title }}</h1>
+                    <header><h1>{{ title }}</h1>
+                        {% if byline %}
+                            <h2 class="author">written by {% byline credits, byline %}</h2>
+                        {% endif %}
+                        {% if artist %}
+                            <h2 class="artist">illustrated by {% byline credits, artist %}</h2>
+                        {% endif %}</header>
                     {{ content | safe }}
                 {% endblock %}
 

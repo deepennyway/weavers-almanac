@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="/images/twitter-card-1200w.webp" />
+    <meta property="og:title" content="Skills | Mnemonic - A Weaver&#39;s Almanac">
+    <meta property="og:description" content="&lt;p&gt;Your character’s success is driven by their skills. Each skill is tied to one of four suits, each one representing a broad category of...">
+    <meta name="twitter:title" content="Skills | Mnemonic - A Weaver&#39;s Almanac">
+    <meta name="twitter:image" content="/images/twitter-card-1200w.webp">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="&lt;p&gt;Your character’s success is driven by their skills. Each skill is tied to one of four suits, each one representing a broad category of...">
+
     <link rel="icon" href="/images/favicon-1332w.webp">
     <title>Skills | Mnemonic - A Weaver&#39;s Almanac</title>
     <link rel="stylesheet" href="/css/style.css">
@@ -21,9 +29,9 @@
         <button class="mobile" onclick="$('.nav').fadeToggle();">Directory</button>
         <aside class="toc">
                 <h1 class="title"><a href="/"><picture class="title">
-        <source type="image/webp" srcset="/images/logo-3000w.webp 3000w" sizes="(min-width: 1024px) 100vw, 50vw">
+        <source type="image/webp" srcset="/images/logo-white-3000w.webp 3000w" sizes="(min-width: 1024px) 100vw, 50vw">
       <img
-        src="/images/logo-3000w.webp"
+        src="/images/logo-white-3000w.webp"
         width="3000"
         height="693"
         alt="Mnemonic - A Weaver's Almanac"
@@ -44,7 +52,7 @@
                     <a href="/preparations/">Preparing Your Journal</a>
                 </li>
                 <li>
-                    <a href="/concepts/">Character Creation</a>
+                    <a href="/character-creation/">Character Creation</a>
                 </li>
                 <li class="active">
                     <a href="/skills/">Skills</a>
@@ -84,6 +92,13 @@
                     <li><a href="#can-i-choose-weaving-as-a-skill%3F">Can I Choose Weaving as a Skill?</a>
             		</li>
 
+                    <li><a href="#how-skills-work">How Skills Work</a>
+            
+                <ol>
+                    
+                    <li><a href="#avoiding-complications">Avoiding Complications</a>
+            		</li>
+
                     <li><a href="#improving-your-skills">Improving Your Skills</a>
             		</li>
 
@@ -91,6 +106,8 @@
             		</li>
 
                     <li><a href="#optional-rule%3A-universal-truth">Optional Rule: Universal Truth</a>
+            		</li>
+                </ol>
             		</li>
                 </ol>
             </nav>
@@ -109,13 +126,15 @@
                 
 <aside class="breadcrumb">
 <p>
-<ul class="breadcrumb"><li><a href="/">Mnemonic: A Weaver's Almanac</a></li></ul> | Skills
+<ul class="breadcrumb"><li><a href="/">Mnemonic: A Weaver's Almanac</a></li></ul> | <span class="current">Skills</span>
 </p></aside>
             
             <article>
 
                 
-                    <h1>Skills</h1>
+                    <header><h1>Skills</h1>
+                        
+                        </header>
                     <p>Your character’s success is driven by their skills. Each skill is tied to one of four suits, each one representing a broad category of actions. In order to use a skill, you must match it to the suit of a card you play, either from your hand or from the top of the deck. This ensures that you won’t always use the same skill.</p>
 <p>There’s no rule requiring you to follow any particular classification of skills for each suit; you can tie the suits to any four categories you like, as long as you have some understanding of what each suit represents for you.</p>
 <p>That being said, here are the suits as I’ve imagined them:</p>
@@ -132,19 +151,42 @@
 <h2 id="can-i-choose-weaving-as-a-skill%3F" tabindex="-1">Can I Choose Weaving as a Skill?</h2>
 <p>If you want your character to be able to call on magic in a more controlled manner than what is described in the Weaving rules, you can add whatever magic you like as a skill. The <strong>Weaver’s Dice</strong> chapter includes thirteen types of weaving that could also be good candidates for skills.</p>
 <p>Note that having a weaving listed as a skill doesn’t give you special advantages when using the Weaving mechanics; if you perform a weaving during an Individual Scene, you still roll a single die and you still risk injury. Using a skill tied to one of the weaving dice is not the same as accepting a weaving die; when you use it as a skill, you’re using your skill at weaving to achieve a specific desired outcome.</p>
-<h2 id="improving-your-skills" tabindex="-1">Improving Your Skills</h2>
-<p>A skill’s rating improves by 1 immediately in any of the following circumstances:</p>
+<h2 id="how-skills-work" tabindex="-1">How Skills Work</h2>
+<p>When you use a skill, you roll a number of dice equal to the skill’s rating. So if you have a rating of 3, you roll <em>three dice</em>. Then look at the highest rolled result:</p>
 <ul>
-<li><strong>Moment of Inspiration:</strong> When using a given skill during an Individual or Group Scene, your <em>lowest</em> rolled result is a 6.</li>
-<li><strong>The Weaver’s Lesson:</strong> When using a given skill during an Individual or Group Scene, your <em>highest</em> rolled result is a 1.</li>
-</ul>
-<p>Each skill can only benefit from one of these avenues of learning per session, and all three of the above methods of improvement must be used before a single method can be used again.</p>
-<p>Alternatively, if your group is following a story arc, you can say that each skill can only benefit from each method once per story arc.</p>
-<h2 id="learning-new-skills" tabindex="-1">Learning New Skills</h2>
-<p>If you want your character to be able to do something but you’ve never done it before and it’s not currently a skill, you can roll it with a rating of 0. When you use a skill with a rating of 0, you roll zero dice, which means that a result of 6 is impossible; in an Individual Scene, this always results in a Complication.</p>
-<p>After resolving the Complication in a Group Scene, record that skill in your journal with a rating of 1.</p>
+<li>If it’s a 6, you manage to use your skill to complete your objective in the scene.</li>
+<li>If it’s <em>not</em> a 6, you still use your skill to complete your objective (you can’t fail in that regard), but the skill becomes <strong>Complicated</strong>.
 <blockquote>
-<h2 id="optional-rule%3A-universal-truth" tabindex="-1">Optional Rule: Universal Truth</h2>
+<p>A complicated skill means that something happens as a result of your actions that hurts you or someone else in ways you didn’t expect, and until you repair that harm you can’t use the same skill again.</p>
+<p>Complicated skills are repaired during <strong>group scenes</strong>.</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="avoiding-complications" tabindex="-1">Avoiding Complications</h3>
+<p>You might not want to suffer the complications related to your actions in that scene. You can do this by asking another player to roll a <strong>weaving die</strong> on your behalf, invoking the power of the world’s memories. More information on that is provided in the <a href="/dice/">Weaving Dice</a> chapter, but briefly, the other player chooses a type of memory for the weaving, and then rolls a single d6 to determine the effects:</p>
+<ul>
+<li>On anything other than a 1 or 6, the weaving completes without incident (more or less).</li>
+<li>On a 1 or 6, the weaving either does too little or becomes an uncontrolled catastrophe that you then must deal with on your own to stop things getting even worse. In both cases, the suit for the skill you used in that scene becomes <strong>Injured</strong>.
+<blockquote>
+<p>An injured suit means that you have wounded or overexerted yourself in a serious way, and until you take time to recover, you cannot use <em>any</em> skill from that suit.</p>
+<p>You can recover an injured suit by playing through the <a href="/play-modes/alone/">A Moment Alone</a> play mode, which is designed to take the place of an <strong>individual scene</strong> for your character.</p>
+</blockquote>
+</li>
+</ul>
+<p>Regardless of the result, the skill’s complication is removed.</p>
+<h3 id="improving-your-skills" tabindex="-1">Improving Your Skills</h3>
+<p>When you use a skill, if all of your dice are either 1s or 6s, you learn something new about that skill and how you use it. Maybe it’s a moment of inspiration; maybe it’s an…educational mistake.</p>
+<p>In either case, the skill’s rating improves by 1.</p>
+<h3 id="learning-new-skills" tabindex="-1">Learning New Skills</h3>
+<p>If you want your character to be able to do something that they have no current skills for, you can. First, <strong>name the skill</strong> and record it in your journal. Then, roll a single d6:</p>
+<ul>
+<li><strong>1 (Bend):</strong> Give the skill a rating of <em>1</em>. The skill becomes <strong>complicated</strong>.</li>
+<li><strong>2-3 (Weave):</strong> Give the skill a rating of <em>1</em>.</li>
+<li><strong>4-5 (Fray):</strong> Give the skill a rating of <em>2</em>. The skill becomes <strong>complicated</strong>.</li>
+<li><strong>6 (Tear):</strong> Give the skill a rating of <em>2</em>. The skill’s suit becomes <strong>injured</strong>.</li>
+</ul>
+<blockquote>
+<h3 id="optional-rule%3A-universal-truth" tabindex="-1">Optional Rule: Universal Truth</h3>
 <p>As an option, your group can decide that once a skill reaches a rating of 6, the character’s skill becomes a kind of universal truth for the world of the story. Mark the action with a star or something to let you know it’s special. Color it with a highlighter. It’s special now.</p>
 <p>A skill that has been marked as a universal truth cannot be further improved.</p>
 <p>When someone performs a weaving, they can instead ask you to use your universal truth. Roll a single die:</p>
@@ -162,7 +204,7 @@
                 
 <aside class="breadcrumb">
 <p>
-<ul class="breadcrumb"><li><a href="/">Mnemonic: A Weaver's Almanac</a></li></ul> | Skills
+<ul class="breadcrumb"><li><a href="/">Mnemonic: A Weaver's Almanac</a></li></ul> | <span class="current">Skills</span>
 </p></aside>
                 
 

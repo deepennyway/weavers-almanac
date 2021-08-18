@@ -13,6 +13,7 @@ Once you've all made characters and are ready to begin telling their story, it's
 - **First Gathering:** A short introduction to everyone's characters, letting the players introduce their characters into the story.
 - **Into the Grey:** An extended exploration of the story's key elements, from people and places to important objects and events. This mode is intended to last multiplay play sessions.
 - **Deck Burner:** A fast-paced resolution to the story's main conflict, or one of its many smaller conflicts.
+- **A Moment Alone:** A brief ritual for clearing injuries from skills and reflecting on a character's choices.
 - **Laid to Rest:** A somber ritual for saying good-bye to a character, or to the story as a whole.
 - **Game Face:** A short game for settling scores between players' characters.
 

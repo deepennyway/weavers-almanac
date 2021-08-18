@@ -1,0 +1,21 @@
+<h2>Starting Skills</h2>
+<p>When you create your character, your strong suit is <strong>{{ strong }}</strong>; your weak suit is <strong>{{ weak }}</strong>. You begin with the following skills.</p>
+
+{% for suit, skill in skills %}
+<table>
+    <thead>
+        <tr>
+            <th>{{ suit | capitalize }}</th>
+            <th style="text-align: end">Starting Rating</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for skill,rating in skill %}
+        <tr>
+            <td>{{skill}}</td>
+            <td style="text-align: end">{{rating}}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endfor %}
