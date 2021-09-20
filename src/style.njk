@@ -40,6 +40,9 @@ body {
     font-size: 12pt;
     line-height: 1.25;
     text-align: justify;
+    text-justify: inter-word;
+    word-break: break-word;
+    hyphens: auto;
     background: var(--background), var(--accent);
     background-size: cover;
     background-position: center;
@@ -713,6 +716,11 @@ table + table,
 p + table {
     margin-top: -.5em;
     padding-top: 0;
+}
+
+table th:first-child,
+table td:first-child {
+    word-break: normal;
 }
 
 table.weaving td:first-child {

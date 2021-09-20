@@ -11,7 +11,8 @@
     <meta name="twitter:image" content="{% imagecss 'twitter-card.png' %}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="{% if layout != "title.njk" %}{{ content | truncate(140) }}{% endif %}">
-
+    <link rel="manifest" href="/manifest.json">
+    <link rel="apple-touch-icon" href="/app-icons/1332.png">
     {% if site.favicon %}<link rel="icon" href="{% imagecss site.favicon %}">{% endif %}
     <title>{% if layout != "title.njk" %}{{ title }} | {% endif %}{{ site.title }}</title>
     <link rel="stylesheet" href="/css/style.css">
@@ -61,7 +62,6 @@
                 {% include "partials/breadcrumb.njk" %}
             {% endif %}
             <article>
-
                 {% block content %}
                     <header><h1>{{ title }}</h1>
                         {% if byline %}

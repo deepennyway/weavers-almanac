@@ -11,11 +11,11 @@ googlefonts:
     sidebar: "Cormorant Garamond"
     dropcap: "Cinzel"
 style:
-    accent: "#700"
+    accent: "#720"
     sidebartext: "#333"
     sidebarback: "#047"
     paperbg: "#efefef"
-    paper: "honey.png"
+    paper: "paper-old.png"
     cover: "book.png"
     bodycolor: "#333"
     velvet: "velvet.png"

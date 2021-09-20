@@ -1,0 +1,13 @@
+{
+    "name": "Mnemonic - A Weaver's Almanac",
+    "short_name": "Weaver's Almanac",
+    "start_url": "https://weavers-almanac.web.app/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Gameplay rules and setting lore for anyone looking to play out stories in the world of memory.",
+    "icons": [{
+      "src": "app-icons/1332.png",
+      "sizes": "1332x1332",
+      "type": "image/png"
+    }]
+  }

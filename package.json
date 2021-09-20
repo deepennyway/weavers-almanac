@@ -1,7 +1,8 @@
 {
-  "name": "pennyblog",
+  "name": "weavers-almanac",
+  "author": "Dee Pennyway",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gameplay rules and setting lore for anyone looking to play out stories in the world of memory.",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
@@ -13,7 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.3.2"
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "electron": "^13.2.1"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.9.0",

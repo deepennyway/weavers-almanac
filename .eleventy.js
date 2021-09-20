@@ -41,7 +41,7 @@ async function imageShortcode(src, alt, size) {
       throw new Error(`Missing \`alt\` on responsiveimage from: ${src}`)
     }  
     let metadata = await Image(src, {
-      widths: [3000],
+      widths: [600],
       formats: ['webp'],
       urlPath: "/images/",
       outputDir: "./public/images/",
@@ -74,6 +74,8 @@ async function imageShortcode(src, alt, size) {
 module.exports = function (eleventyConfig) {
     eleventyConfig.addWatchTarget("./src/css/")
     eleventyConfig.addPassthroughCopy("./src/css/")
+    eleventyConfig.addPassthroughCopy("./src/app-icons/")
+    eleventyConfig.addPassthroughCopy("./src/manifest.json")
     eleventyConfig.addWatchTarget("./src/fonts/")
     eleventyConfig.addPassthroughCopy("./src/fonts/")
 
