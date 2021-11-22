@@ -1,3 +1,4 @@
+EDITED: Yes. No changes necessary.
 ---
 title: "Acknowledgments"
 parent: main
