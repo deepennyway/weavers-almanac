@@ -1,3 +1,4 @@
+EDITED: Yes. No changes necessary unless you feel like adding "and" to "... [and] you definitely don't trust people"
 ---
 title: The Loner
 layout: concept.njk
@@ -21,4 +22,3 @@ You'd rather work alone, but for some reason you keep getting sucked into protec
 You don't like these people. You don't know why you still stick with them. You swear, tomorrow you'll be gone. Really. This time you mean it.
 
 Maybe the day after tomorrow. You certainly don't need them. It's them who'd be useless without you. Right?
-
