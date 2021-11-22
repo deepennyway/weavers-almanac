@@ -1,3 +1,4 @@
+EDITED: Yes. No changes necessary.
 ---
 title: The Mercenary
 tagline: Ace of Spades
