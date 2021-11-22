@@ -33,7 +33,7 @@ Note that having a weaving listed as a skill doesn't give you special advantages
 When you use a skill, you roll a number of dice equal to the skill's rating. So if you have a rating of 3, you roll *three dice*. Then, look at the highest rolled result:
 - If it's a 6, you manage to use your skill to complete your objective in the scene.
 - If it's *not* a 6, you still use your skill to complete your objective (you can't fail in that regard), but the skill becomes **Complicated**. [#Lexi: Style note for this and Injured, below: when is it capitalized and when is it not?]
-    > A complicated skill means that something has happened as a result of your actions that hurts you or someone else in ways you didn't expect, and until you repair that harm you can't use the same skill again.
+    > A complicated skill means that something happens as a result of your actions that hurts you or someone else in ways you didn't expect, and until you repair that harm you can't use the same skill again.
     >
     > Complicated skills are repaired during **group scenes**.
 
