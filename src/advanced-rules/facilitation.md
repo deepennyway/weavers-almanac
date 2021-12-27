@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Facilitating Play
 type: chapter
 weight: 5
@@ -8,12 +9,12 @@ For some groups, playing out the story freely without the intervention of a sing
 
 For groups who prefer to play with the aid of a facilitator, here are some things to consider. Remember that everything in this chapter is *optional*; if you don't want a facilitator, your group doesn't have to have one.
 
-The facilitator's job is to help the players navigate the rules. As facilitator, you can prepare reference materials for them, keep track of narrative events in your own journal, hand out dice as needed. You don't need to control anything that happens within the story, or come up with an overarching narrative.
+The facilitator's job is to help the players navigate the rules. As facilitator, you can prepare reference materials for them, keep track of narrative events in your own journal, hand out dice as needed, and so on. You *don't* need to control anything that happens within the story or come up with an overarching narrative.
 
-You can offer suggestions or ask questions, and if you and the other players all trust each other you can push players to go deeper in exploring a scene or moment. But be careful if you do this. Remember that your primary goal is to help the group play the game, not to play it for them.
+You can offer suggestions or ask questions, and if you and the other players all trust each other you can push players to go deeper in exploring a scene or moment, but be careful if you do this. Remember that your primary goal is to help the group play the game, not to play it for them.
 
 > ## The Importance of Agency
-> The only person who decides what happens *to* a character is that character's player. So if you're facilitating play, you can ask a player what happens to their character; you may not *tell* them what happens to their character.
+> The only person who decides what happens *to* a character is that character's player. If you're facilitating play, you can ask a player what happens to their character. If players appreciate it, you may *suggest* things. You may never *tell* them what happens to their character.
 
 ## Be the Weaver.
 Whenever a player asks for a weaving die, you are the person they ask, which means that you will always be the one to decide what types of memory are conjured when the characters in the story tap into the world's magic. When the weaving die is cast, you are also the one to describe what happens as a result. The player is still responsible for describing how their own character is injured, if it comes to that.
@@ -21,7 +22,7 @@ Whenever a player asks for a weaving die, you are the person they ask, which mea
 > If you're using the optional *Universal Truth* rule for skills, the players can then always offer their own universal truths as weaving dice.
 
 ## Be a Player.
-If the other players want you to take a more active role, I recommend setting up your own Player's Journal, and treat the world or the story as its own character. Play out beats and scenes using skills that are appropriate for the narrative, like **Dramatic Irony**, or **The Villain's Speech**.
+If the other players want you to take a more active role, I recommend setting up your own Player's Journal and treating the world or the story as its own character. Play out beats and scenes using skills that are appropriate for the narrative, like **Dramatic Irony**, or **The Villain's Speech**.
 
 The skills in your journal improve the same way that the other players' skills do.
 
