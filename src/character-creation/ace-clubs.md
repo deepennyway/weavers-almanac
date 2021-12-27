@@ -1,4 +1,3 @@
-EDITED: Yes. No changes necessary unless you feel like adding "and" to "... [and] you definitely don't trust people"
 ---
 title: The Loner
 layout: concept.njk
