@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Laid to Rest
 order: 4
 description: A ritual for saying good-bye to a character, or to a story.
