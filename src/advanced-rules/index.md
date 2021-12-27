@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Advanced Rules
 parent: main
 layout: chapter-start.njk
