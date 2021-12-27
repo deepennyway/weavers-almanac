@@ -42,9 +42,9 @@ To play out the scene, follow this process, adding narrative details wherever an
 5. (Optional) Perform a [weaving](/dice/) to avoid the complication to your skill or to give one other player an extra die in their next roll.
 6. Pass the focus of play to the next player and lend them your attention as best you can.
 7. Once everyone has played out a scene, choose:
-    - Play a **Group Scene**
-    - Play another round of **Individual Scenes**
-    - End the game here
+    - Play a **Group Scene**.
+    - Play another round of **Individual Scenes**.
+    - End the game here.
 
 ## Group Scenes
 In a Group Scene, everyone works together to deal with the consequences of their actions. You cannot have a Group Scene without first laying the groundwork for everyone's characters in Individual Scenes first. (Well, you could, but the stakes would be floppy and impersonal, and more practically the Adversary's pool would be utterly empty of Complications).
