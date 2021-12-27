@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: "Player vs Player: Game Face"
 type: chapter
 byline: vince
