@@ -1,5 +1,5 @@
-EDITED: Yes. Minor grammatical changes and flow recommendations, some optional changes or thoughts to consider.
 ---
+edited: Yes. Minor grammatical changes and flow recommendations, some optional changes or thoughts to consider.
 title: Preparing Your Journal
 parent: main
 chapter: yes
