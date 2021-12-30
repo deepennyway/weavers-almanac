@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Rain
 eleventyNavigation:
     key: Rain
@@ -17,10 +18,9 @@ effect:
     tear: There is a brief silence before the heavens above and the ground below erupt. Geysers burst forth, rivers overflow, and heavy rains wash away everything in sight. Those caught in its flow are swept away along with the debris. Only a few pebbles, twigs, and hints of what used to be are left behind.
 ---
 
-A herald of the spring, rain visits us all letting nearby nature know renewal is just around the bend. Quiet taps on the roof of a home. The sound of droplets on leaves. The smell of wet earth and nearby flowers. The promise of new life to follow. Too much, and what once nourished life overflows to destroy it. Rivers break their bounds and people can find themselves in grave danger at a moment's notice.
+A herald of the spring, rain visits us all, letting nearby nature know renewal is just around the bend. Quiet taps on the roof of a home. The sound of droplets on leaves. The smell of wet earth and nearby flowers. The promise of new life to follow. Too much, though, and what once nourished life overflows to destroy it. Rivers break their bounds and people can find themselves in grave danger at a moment's notice.
 
-Roll the Rain Die when you need refreshing and nourishment. When you do, know that the first drop is the herald of thousands more.
-
+Roll the Rain Die when you need refreshment and nourishment. When you do, know that the first drop is the herald of thousands more.
 
 > When you weave with the Rain Die, consider the following:
 >
