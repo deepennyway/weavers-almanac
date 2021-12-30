@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: "Free Play"
 weight: 2
 type: chapter
@@ -13,7 +14,7 @@ In this advanced mode, the guardrails are gone, the training wheels are off, and
 3. Roll the dice.
 4. If you roll a 6, you succeed without consequences. Otherwise, your actions complicate things for yourself or the group.
 
-If the situation you're trying to resolve has to do with complications facing multiple or all characters in the group, that's straight-forward too:
+If the situation you're trying to resolve has to do with complications facing multiple or all characters in the group, that's straightforward, too:
 
 1. Assess the complications and set aside one die for each one as the Adversary's Pool.
 2. Everyone chooses a skill that's appropriate to their character's actions in this scene.
@@ -23,4 +24,4 @@ If the situation you're trying to resolve has to do with complications facing mu
 
 In this way, you don't have to keep track of complications during individual scenes; just assess the situation when you get into a group scene and go from there.
 
-This mode of play works best, I think, with the help of a Facilitator, but if your group is comfortable talking through scenes and moments this way, you might not need one.
+This mode of play works best, I think, with the help of a *Facilitator*, but if your group is comfortable talking through scenes and moments this way, you might not need one.

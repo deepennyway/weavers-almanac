@@ -1,3 +1,4 @@
+EDITED: Yes. No changes necessary.
 ---
 title: The Social Construct
 tagline: Ace of Diamonds

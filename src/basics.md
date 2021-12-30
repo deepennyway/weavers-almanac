@@ -1,10 +1,11 @@
 ---
+edited: Yes
 title: Basics of Play
 parent: main
 chapter: yes
 order: 6
 ---
-For both *Into the Grey* and *Deck Burner*, the cycle of play in Mnemonic follows a set pattern: Each player takes the lead in describing their character's actions through a scene where their character has focus; then, once everyone has had a turn to lead, the group comes together to address the complications that may have arisen during each player's individual scenes.
+For both *Into the Grey* and *Deck Burner*, the cycle of play in Mnemonic follows a set pattern. Each player takes the lead in describing their character's actions through a scene where their character has focus; then, once everyone has had a turn to lead, the group comes together to address the complications that may have arisen during each player's individual scenes.
 
 You can also use this framework to come up with new modes of play.
 
@@ -35,30 +36,31 @@ To play out the scene, follow this process, adding narrative details wherever an
 
 2. Choose a skill for your character that matches the suit of the card you played.
     > ### Optional: Asking for Help
-    > If you don't have any skills that match the suit and you don't want to **learn a new skill**, you can ask another player to join you in the scene to assist you; then choose whatever skill you like. Have them choose a skill for their character to use. They won't be rolling, but you'll need to know what skill they used in the event of an **injury**; a player that assists you also assumes the same risks as you during the scene.
+    > If you don't have any skills that match the suit and you don't want to **learn a new skill**, you can ask another player to join you in the scene to assist you. If they do, choose whatever skill you like and have them choose a skill for their character to use. They won't roll, but you'll need to know what skill they used in the event of an **injury**; a player that assists you also assumes the same risks as you during the scene.
 3. Gather and roll a number of dice equal to the rating for the skill you chose. Keep the highest result.
-4. If the highest result is anything other than a 6, the skill you used in this scene becomes **complicated**, and cannot be used until it is repaired.
-5. (Optional) Perform a [weaving](/dice/) to avoid the complication to your skill, or to give one other player an extra die in their next roll.
-6. Pass the focus of play to the next player, and lend them your attention as best you can.
+4. If the highest result is anything other than a 6, the skill you used in this scene becomes **complicated** and cannot be used until it is repaired.
+5. (Optional) Perform a [weaving](/dice/) to avoid the complication to your skill or to give one other player an extra die in their next roll.
+6. Pass the focus of play to the next player and lend them your attention as best you can.
 7. Once everyone has played out a scene, choose:
-    - Play a **Group Scene**
-    - Play another round of **Individual Scenes**
-    - End the game here
+    - Play a **Group Scene**.
+    - Play another round of **Individual Scenes**.
+    - End the game here.
 
 ## Group Scenes
-In a Group Scene, everyone must work together to deal with the consequences of their actions. You cannot have a Group Scene without first laying the groundwork for everyone's characters in Individual Scenes first. (Well, you could, but the stakes would be floppy and impersonal, and more practically the Adversary's pool would be utterly empty of Complications).
+In a Group Scene, everyone works together to deal with the consequences of their actions. You cannot have a Group Scene without first laying the groundwork for everyone's characters in Individual Scenes first. (Well, you could, but the stakes would be floppy and impersonal, and more practically the Adversary's pool would be utterly empty of Complications).
 
 To play a Group Scene:
 1. **Set the Stakes:** Each player adds up and declares their character's total number of complications. For each complication, add one die to the Adversary's Pool.
-2. **Make the Plan:** Have each player choose a skill. For *Deck Burner*, first have everyone draw a card from the top of the deck; the skill they choose must match the suit of the card they draw. If a player has no skills available, their character is left to hope for the best, contributing nothing of substance to the group's efforts.
-3. **Execute the Plan:** Have every player roll their dice separately, keeping their highest roll.
+2. **Make the Plan:** Each player chooses a skill. For *Deck Burner*, everyone must first draw a card from the top of the deck; the skill they choose must match the suit of the card they drew. If a player has no skills available, their character is left to hope for the best, contributing nothing of substance to the group's efforts. [#Lexi: Opening new skills here y/n]
+3. **Execute the Plan:** Every player rolls their dice separately, keeping their highest roll.
 4. **Things Go Wrong:** Roll each of the Adversary's dice individually.
-5. **Sort it Out:** Starting with the lowest roll, have each player describe their actions in the scene. If a Complication die interrupts the order, describe how things go wrong. When you get to the highest roll, determine:
-    - **Victory:** If the highest roll belongs to a player, the players overcome the scene's obstacles and resolve the scene on their own terms. The player with the highest roll describes how their action brings the scene to a close. Either end the game here, or play a new round of Individual Scenes. **Clear all complications from everyone's skills.**
-    - **Defeat:** If the highest roll belongs to the Adversary, the players are overwhelmed by the consequences of their actions, and are forced to live with them, at least for now. For each player, the suit they used in this scene also becomes **injured**.
-    - **Draw:** If both the Adversary and a player share the highest roll, the players are unable to fully resolve the consequences of their actions, but no one gets hurt in the process.
+5. **Sort it Out:** Starting with the lowest roll, each player describes their actions in the scene. If a Complication die interrupts the order, describe how things go wrong. When you get to the highest roll: [#Lexi: Player and character were used sort of interchangeably here, in a way I don't think reflects it perfectly?]
+    - **Victory:** If the highest roll belongs to a player, the characters overcome the scene's obstacles and resolve the scene on their own terms. The player with the highest roll describes how their action brings the scene to a close. End the game here or play a new round of Individual Scenes. **Clear all complications from everyone's skills.**
+    - **Defeat:** If the highest roll belongs to the Adversary, the characters are overwhelmed by the consequences of their actions and are forced to live with them, at least for now. For each player, the suit they used in this scene also becomes **injured**.
+    - **Draw:** If both the Adversary and a player share the highest roll, the characters are unable to fully resolve the consequences of their actions, but no one gets hurt in the process.
 
 If the players win, go back to playing Individual Scenes or end the game there. If the players suffer defeat, choose one of the following:
     - **Try Again:** Play out another Group Scene, starting with **Set the Stakes**.
     - **Regroup:** Play a new round of Individual Scenes.
     - **Retreat:** End the game here.
+[#Lexi: The formatting on this final bullet list breaks on the site. Not sure why.]

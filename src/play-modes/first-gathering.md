@@ -2,12 +2,12 @@
 title: The First Gathering
 order: 1
 ---
-The First Gathering is about introducing everyone's characters; it's meant to be short enough that you can play it at the end of the character creation process, or just before jumping into another mode like *Into the Grey*. If you've played *Cracks in the Mirror*, this ritual will feel very familiar.
+The First Gathering is about introducing everyone's characters; it's meant to be short enough that you can play it at the end of the character creation process or just before jumping into another mode like *Into the Grey*. If you've played *Cracks in the Mirror*, this ritual will feel very familiar.
 
-This process will bring the characters you've made into the story. How this will work is this:
+This process brings the characters you've made into the story in three stages:
 1. **Introducing Your Character:** Each player goes through the entire process to introduce their character.
-2. **Developing the Group Dynamic:** Once everyone's character is present, they will meet each other.
-3. **Now It's A Party:** Once everyone has met, they will find a reason to work or travel or live together.
+2. **Developing the Group Dynamic:** Once everyone's character is present, they meet each other.
+3. **Now It's A Party:** Once everyone has met, they find a reason to work or travel or live together.
 
 If the players created their characters before meeting to play as a group, give yourselves permission to take a bit longer with this ritual; otherwise, it's okay to gloss over details that everyone is already familiar with from the character creation process.
 
@@ -17,28 +17,28 @@ If this is not the first time your group is playing The First Gathering with the
 
 When we tell stories, we inevitably leave some details out, some rooms unexplored, some doors closed. We do this for our own safety and for the safety of those around us. If you haven't already done so with your gruop, take a moment now to discuss: What is a boundary you will not cross in this story? How close to it are you willing to wander before you turn away?
 
-Your boundary can be something your character would want respected, or it can be something you care about personally. For example, Dee has a fear of heights, but their character does not. They might say, "I'd like to set a boundary on detailed descriptions of vertigo or other feelings of being up high. We can go to high places, but I as a player don't want to experience that feeling in my imagination."
+Your boundary can be something your character would want respected or it can be something *you* care about personally. For example, Dee has a fear of heights, but their character does not. They might say, "I'd like to set a boundary on detailed descriptions of vertigo or other feelings of being up high. We can go to high places, but I as a player don't want to experience that feeling in my imagination."
 
 You can set more than one boundary, and you can add more as the story progresses or as you think of them. If privacy is a concern, you may want to consider some form of anonymization, such as a shared digital document or a trusted facilitator.
 
 Respecting boundaries is about more than just not crossing the line; it's about knowing when a boundary needs to remain entirely outside the scope of the story, even in reference. If your character has a pet and you want to set a boundary around that pet's safety, you may want to establish that as a convention of play: that this pet will never come to harm, and will never even be perceived to be in any danger, no matter the stakes of the scene.
 
-Once the boundaries are set, we can begin. We can adjust them at any time as needed, but now we have enough to get started.
+Once the boundaries are set, we can begin. We can adjust them at any time as needed, but for now we have enough to get started.
 
 
 ## Introducing Your Character
-Answer each of the following questions to describe your character's outlook, physical appearance, circumstances, or present mood.For each question, either choose a response from the available options or invent your own.
+Answer each of the following questions to describe your character's outlook, physical appearance, circumstances, or present mood. For each question, either choose a response from the available options or invent your own.
 
 ### The Silhouette
 When you enter the scene, we don't see your face just yet; just the outline of your body.
 
 What are you wearing that changes the shape of your silhouette?
 
--   A dress or skirt.
--   A suit of armor.
--   A cloak or cape.
--   A hat.
--   A scarf.
+-   A dress or skirt
+-   A suit of armor
+-   A cloak or cape
+-   A hat
+-   A scarf
 -   Nothing. My garb is fitted to my form.
 
 _Optional:_ What does your silhouette remind us of when we first see you?
@@ -60,12 +60,12 @@ As you step out of the Grey, the wandering mists that are scattered across the w
 
 What is your mask made of?
 
-*   Wood.
-*   Stone.
-*   Crystal.
-*   Metal.
-*   Glass.
-*   Cloth.
+*   Wood
+*   Stone
+*   Crystal
+*   Metal
+*   Glass
+*   Cloth
 
 _Optional:_ Describe your mask. What is its shape? What colors make up its design? Is it plain or decorated? Does it cover your mouth? Your eyes? Your head?
 
@@ -81,7 +81,7 @@ What lie has your community tried to make you believe about yourself?
 *   I’m better off alone.
 *   I’m only as valuable as the things I create.
 
-*Remember: This lie isn't true for you.*
+*Remember: This lie isn't true about you.*
 
 ### The Source
 Where do you derive your strength?
@@ -96,9 +96,9 @@ Where do you derive your strength?
 ### The Power
 Nobody just stands there in the mists looking mysterious. Everyone's doing something. What is it that you are doing, when you first appear?
 
-Choose one of the following based on how many Complications are currently in the Adversary's pool:
+Choose one of the following based on how many Complications are currently in the Adversary's pool: [#Lexi: The exact criteria are unclear, other than that you can't remove a Complication that doesn't exist]
 
-- **You Do Something Impressive:** You spot someone in need of help, and use one of the skills associated with your strong suit to help them. \
+- **You Do Something Impressive:** You spot someone in need of help and use one of the skills associated with your strong suit to help them. \
     *Remove a **Complication** from the Adversary's pool.*
 - **You Do Something Necessary:** You're in trouble when we first see you, but you quickly get out of it.
 - **You Do Something Foolish:** You're in way over your head, probably because of something you did.\
@@ -110,7 +110,7 @@ Everyone's good at something. What are you good at? Tell us your **Strong Suit**
 We see you, we know you. We just need to know what to call you, in the context of this story. What **name** should we use?
 
 ### Wrap It Up
-Give us one more detail to get excited about this character, and then give the focus to the next player so that they can introduce their character too.
+Give us one more detail to get excited about this character, then give the focus to the next player so that they can introduce their character too.
 
 ## Developing the Group Dynamic
 Now that each of you has a character, it’s time to place them into context with each other. Take a moment to breathe, drink some water, do some physical exercising to re-orient yourself, and then come back and proceed.
@@ -158,8 +158,9 @@ Quickly build a **Group Scene** using the pool of Complications you accumulated 
 2. **Make the Plan:** Have each player choose a skill. Since we're not using the deck yet, anyone can choose whichever they like.
 3. **Execute the Plan:** Have each player roll a number of dice equal to the rating of the skill they chose, keeping only the highest roll.
 4. **Things Go Wrong:** Roll the Adversary's dice, and keep them separate.
-5. **Sort It Out:** Starting with the lowest roll, have each player describe their actions in the scene. If a Complication die interrupts the order, describe how things go wrong. When you get to the highest roll, determine Victory or Defeat depending on whether the highest roll belonged to the Adversary or one of the players:
-    - **Victory:** The players overcome the scene’s obstacles and resolve the scene on their own terms. The player with the highest roll describes how their action brings the scene to a close.
-    - **Defeat:** The players are overwhelmed by the consequences of their actions, and are forced to live with them, at least for now.
+5. **Sort It Out:** Starting with the lowest roll, have each player describe their actions in the scene. If a Complication die interrupts the order, describe how things go wrong. When you get to the highest roll, determine Victory or Defeat based on whether the highest roll belonged to the Adversary or one of the players:
+    - **Victory:** The characters overcome the scene’s obstacles and resolve the scene on their own terms. The player with the highest roll describes how their action brings the scene to a close.
+    - **Defeat:** The characters are overwhelmed by the consequences of their actions and are forced to live with them, at least for now.
+    - [#Lexi: Tie resolution since there's no Draw here?]
 
-Whether the scene ended in Victory or Defeat, the game ends here. Take a moment to wrap things up, discuss what your characters intend to do next, and what you plan to do next.
+Whether the scene ended in Victory or Defeat, *The First Gathering* ends here. Take a moment to wrap things up. Discuss what your characters intend to do next and what you plan to do next.
