@@ -1,6 +1,6 @@
-EDITED: Yes. No changes necessary.
 ---
 title: "Acknowledgments"
+edited: Yes. No changes necessary.
 parent: main
 layout: credits.njk
 order: 1
