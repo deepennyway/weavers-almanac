@@ -2,13 +2,13 @@ tags: Weaving Dice
 parent: Weaving Dice
 sort: 3
 layout: "dice.njk"
-description: Describe the die itself. What does it look like physically? How are its surfaces decorated? What does it make you feel when you look at it? Does it make a sound when you roll it?
+description: Describe the die itself [#Lexi: or, "Describe the Weaving Die itself" here. Your call, as mentioned elsewhere.]. What does it look like physically? How are its surfaces decorated? What does it make you feel when you look at it? Does it make a sound when you roll it?
 effect:
     bend: |
         The Bend effect of a weaving die is subtle, barely perceptible to the untrained eye. What does this die do that only the weaver will notice? Bend effects are minor, and rarely yield negative consequences. 
     weave: |
-        The Weave effect of a weaving die is tangible and visible, but might appear to be coincidence to the casual observer, as the world blends its memories with the present moment. Weave effects are powerful, like a stroke of uncanny luck; but luck can be harmful if not paid heed. 
+        The Weave effect of a weaving die is tangible and visible, but might appear to be coincidence to the casual observer, as the world blends its memories with the present moment. Weave effects are powerful, like a stroke of uncanny luck, but luck can be harmful if not paid heed. 
     fray: |
-        The Fray effect of a weaving die is obvious and powerful, and calls to mind images of sorcerers casting spells. What does this die do, that answers the weaver's call? Fray effects often come with dangerous collateral damage. 
+        The Fray effect of a weaving die is obvious and powerful; it calls to mind images of sorcerers casting spells. What does this die do when it answers the weaver's call? Fray effects often come with dangerous collateral damage. 
     tear: |
-        The Tear effect of a weaving die is dangerous and uncontrolled, with a will of its own that most weavers cannot contain. What does this die do, and what perils inevitably arise from its use? Tear effects always carry disastrous consequences that change the course of events. 
+        The Tear effect of a weaving die is dangerous and uncontrolled, with a will of its own that most weavers cannot contain. What does this die do, and what perils inevitably arise from its use? Tear effects always carry disastrous consequences spiraling beyond the original weaving's intent. 
