@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Dragon's Husk
 byline: deepennyway
 art: dragonhusk.png
