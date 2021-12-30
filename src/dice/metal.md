@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Metal
 eleventyNavigation:
     key: Metal
@@ -22,10 +23,10 @@ effect:
 
 Metal means different things to different people, but for the Gemfolk who founded the shining city of Heliopolis, it represented a relationship with the earth and the mountains that gave them life. Fire gives it the ability to bend and reshape itself, and a skilled craftsman knows the potential of good materials.
 
-Go to the shining city and you will see it, gleaming on the walls of the Spire of the Sun, carrying people across miles in a matter of minutes on the Electric Rail system that weaves its way through the city, moving water to homes and restaurants and public gardens all over. The careful work of engineers, the best of whom still remember where the bronze came from, what it represents.
+Go to the shining city and you will see it: gleaming on the walls of the Spire of the Sun; carrying people across miles in a matter of minutes on the Electric Rail system that weaves its way through the city; moving water to homes and restaurants and public gardens all over. The careful work of engineers, the best of whom still remember where the bronze came from and what it represents.
 
-Metal is used for destruction too. Weapons of war, armored instruments of devastation, devices built to level cities or topple mountains. The world remembers all of these things, with pain and sorrow. 
+Metal is used for destruction, too. Weapons of war, armored instruments of devastation, devices built to level cities or topple mountains. The world remembers all of these things, with pain and sorrow. 
 
 > When you roll the Metal Die, consider:
 > - When was the last time you looked to the mountains?
-> - What do you carry that has metal in it? Where did it come from? Who made it?
+> - What do you carry that has metal in it? Where did it come from? Who made it? Why?
