@@ -8,7 +8,7 @@ eleventyNavigation:
 byline: deepennyway
 artist: sin
 art: grey.png
-arttext: "A broken mirror. In the shattered pieces, ruin." 
+arttext: "A broken mirror. The shattered pieces reflect a dessicated, barren wasteland containing only a single dead plant." 
 description: The Grey Die is a broken piece of cracked stone, charred and pitted and cold. It calls to mind memories of a place that was destroyed, and of those who were lost in the rubble.
 effect:
     bend: You can feel it—the weight of something beyond yourself pressing in, affecting the world around you, tilting things ever so slightly in your favor, falling out of balance. Maybe nothing happened. Maybe it just hasn't happened *yet*. 
