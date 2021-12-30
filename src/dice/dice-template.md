@@ -1,8 +1,9 @@
 ---
+edited: Yes
 title: "Template"
 order: -1
 ---
-
+[#Lexi: The header box that isn't in this file needs no edits except maaaaybe changing "Describe the die itself" to "Describe this Weaving Die itself" if you feel like it. Not necessary, and I'm not sure if I think it's better that way.]
 
 The opening text for your new die should contain three body-length paragraphs, each paragraph addressing one of the following:
 
@@ -10,7 +11,7 @@ The opening text for your new die should contain three body-length paragraphs, e
 - Place this die in context with the rest of the world. What does its power represent within the world of Mnemonic? (2-3 sentences)
 - What happens when the player rolls this die? What power does it hold?
 
-> When you weave with [this die], consider the following:
+> When someone weaves with this die:
 > 
 > - Ask the player to frame the die in context of their own character's memories.
-> - Ask the player why their character rolls this die in particular. The character might not know themselves.
+> - Ask the player why their character rolls *this* die in particular. The character might not know themselves.
