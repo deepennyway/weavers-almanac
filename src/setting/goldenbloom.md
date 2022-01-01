@@ -6,7 +6,7 @@ weight: 2
 type: chapter
 ---
 
-Dusk, dawn, or high noon, the ship gleams rays of god to pierce even the thickest clouds that stood in its way. The Goldenbloom is more than just a vessel, it’s a way of life. Your life.
+Dusk, dawn, or high noon, the ship gleams rays of gold [#Lexi: I assume that's what it's meant to be anyway] to pierce even the thickest clouds that stood in its way. The Goldenbloom is more than just a vessel, it’s a way of life. Your life.
 
 The marvel flew the skies for generations—how many, not even the dozens of your predecessors could tell. Through centuries and lifetimes, it’s seen all the world can offer. It has flown through sleet, sun, rust, and rot, maybe even shedding its hull for a new skin every so often. At least, that’s what its walls tell you.
 
