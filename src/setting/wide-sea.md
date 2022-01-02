@@ -19,6 +19,8 @@ The turles, massive as they were, overturned every sea rock and boulder and even
 
 This is why I asked you if you wish to have your wish granted—because the godling grants the wishes of whoever finds those pearls. Would you dare take the plunge? How deep would you go for your precious wish?
 
+[#Lexi: This setting has no questions, or at least doesn't separate the questions above, so there's a broken empty question box here because of the format break]
+
 ***
 
 ## Heist on the Seas
