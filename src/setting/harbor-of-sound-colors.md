@@ -11,7 +11,7 @@ The sound of ocean waves shifting underneath wooden floors is a wakeup call to m
 
 When moonlight graces the calm, still waters of night, the harbor glows in beautiful hues and the people celebrate with hearty songs and energetic melodies, grateful for today’s peace and the peace of the many todays that came before—for their history is marred with a violence that they have long since moved on from. 
 
-> **The journey to reach it will not be easy; standing in your way are far too many shipwrecks and submerged ruins. If you still choose to travel to this sleepy, secluded village, consider the following:**
+> The journey to reach it will not be easy; standing in your way are far too many shipwrecks and submerged ruins. **If you still choose to travel to this sleepy, secluded village, consider the following:**
 > - What sparse rumors have you heard about this quiet village that compelled you to set forth on your travels?
 > - When you arrive, what things do you see around the harbor that have been left behind by their days long gone?
 > - Who are the only few that are willing to speak privately about the harbor’s history?
