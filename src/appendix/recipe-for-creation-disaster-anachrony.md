@@ -1,13 +1,15 @@
 ---
+edited: Yes
 title: A Recipe for Creation, Disaster, and Anachrony
 byline: max
 type: chapter
 weight: 2
 ---
-## In The Beginning
-A long time ago, you found a crumpled-up recipe along your travels and have kept it with you ever since. The recipe is handwritten in jet black ink with smudged ink everywhere, suggesting this was written by someone in a hurry. The recipe looks incomplete, yet there’s enough for you to figure out the general intention of the recipe.
 
-Someone obviously took extreme care to write this recipe down in such haste. You’re not quite sure why the recipe is important, but seeing the handwriting makes you think it’s important. The recipe has three sections which are clear though: Creation, Disaster, and Anachrony.
+## In The Beginning
+A long time ago, you found a crumpled-up recipe along your travels. You have kept it with you ever since. The recipe is handwritten in jet black ink with smudges everywhere, suggesting this was written by someone in a hurry. The recipe looks incomplete, yet there’s enough for you to figure out the general intention of it.
+
+Someone obviously took extreme care to write this recipe down in such haste. You’re not quite sure why the recipe would be important, but seeing the handwriting makes you think it is. The recipe has three sections which are clear though: Creation, Disaster, and Anachrony.
 
 ## Creation
 To make the recipe, you must find the following ingredients. Each time you read the recipe, the words seem to be ever-changing. Yet somehow, it still feels like the same recipe.
@@ -16,7 +18,7 @@ To complete the Creation, choose a word or phrase using the prompts in the paren
 
 * ______ stalks of _____ (Number, verb)
 * Eighteen ____ bunches of ______ (adjective, noun)
-* A dash of _____ (verb) from the ____ (terrain)
+* A dash of _____ (verb) from the ____ (terrain) [#Lexi: Verb? Not noun?]
 * One vial of _____ (an emotion you recently felt that you would like to forget)
 * Two springs of ____ herbs (an emotion you wish to feel again but haven’t felt recently)
 
@@ -24,7 +26,7 @@ To complete the Creation, choose a word or phrase using the prompts in the paren
 To complete the Disaster, complete the following steps and choose a word or phrase using the prompts in the parentheses. Each party member should fill in at least one blank. 
 
 1. Create a fire using _____ instead of firewood (an echo that is still haunting your world).
-2. Create a bundle by placing ingredients into a _____ and wrap up using ______ (an object that holds importance to someone in the party, a sad verb that evokes conflicting emotions).
+2. Create a bundle by placing ingredients into a _____ wrapped in ______ (an object that holds importance to someone in the party, a sad verb that evokes conflicting emotions).
 3. Place the bundle onto the fire.
 4. Sing a song out loud as you watch the fire envelop the bundle.
     * What mood does your song set? Do you feel a sense of loss, or do you feel relieved by letting go of these items?
@@ -36,7 +38,7 @@ You begin to feel a sense of loss.
 
 > *“I am you. You are me. The fire has taken me in the past, yet I remain a part of this world. Will you set me free?”* 
 >      
-> ...Who is this?...
+> ... Who is this...?
 
 ## Anachrony
 As the fire dies out, you see the charred bundle amongst the coals. Inside the bundle, you see a meal. Describe what the meal looks like. As you eat your meal, consider the following:
