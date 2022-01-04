@@ -1,14 +1,14 @@
 ---
+edited: Yes
 title: Woe Woodworks Mementos
 type: chapter
 byline: fidelis
 weight: 2
 ---
 
-The Woe Woodworks Company specializes in wooden goods - household items, toys, furniture. They may even be commissioned for larger pieces, like vehicle parts, sculptures, and engraved fixtures.
+The Woe Woodworks Company specializes in wooden goods—household items, toys, furniture. They may even be commissioned for larger pieces, like vehicle parts, sculptures, and engraved fixtures.
 
 Every single item is produced from trees grown in the Woods of Woe, where local lore is that if you wish to rid yourself of a sorrowful memory, you whisper it to a sapling and plant it in the grove. As the tree grows, your memories disappear, taken in by the tree. The trees grow far too tall, and far too quickly, but for the industrial minds of Woe Woodworks, this means that there is never a lack of lumber. But as the wooden goods spread across the realms, they bring their whispers with them.
-
 
 ## Memories in the wood grain
 
@@ -24,18 +24,15 @@ People of all sorts visit the Woods of Woe to leave their whispers to the trees,
 
 The Woe Woodworks Company has produced countless items over the years. They may be kept, sold, inherited, stolen, buried, enshrined, or forgotten. 
 
-Some whispers are powerful, evoking immediate and visceral reactions to even a cursory interaction with the item.
+Some whispers are powerful, evoking immediate and visceral reactions from even a cursory interaction with the item.
 
-Others are more subtle, with their influence felt only in dreams, or very slowly, over continuous exposure over the years.
+Others are more subtle, with their influence felt only in dreams, or felt very slowly, over continuous exposure over the years.
 
 Each item contains a memory that may:
 
-
-
-*   Compel you to do something - to sing at the window of a dying man,  to create a masterpiece that will last, to seek revenge for a wrong done, or to solve a mystery regardless of whether it was solved years ago.
+*   Compel you to do something: to sing at the window of a dying man, to create a masterpiece that will last, to seek revenge for a wrong done, or to solve a mystery regardless of whether it was solved years ago.
 *   Inspire strong emotions, like rage, despair, or terror, although you may not understand why.
 *   Invite contemplation of a life that is not yours, that you may learn something from it.
-
 
 ### Woe Woodworks Company exception clause
 
