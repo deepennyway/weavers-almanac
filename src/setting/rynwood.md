@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Rynwood, the Forest of Silk
 byline: deepennyway
 ---
@@ -9,14 +10,14 @@ The trees of Rynwood have hollow trunks, growing their heartwood to accommodate 
 
 Spiderfolk live here too: human-looking people who share some of the spiders' most well-known traits. Some spiderfolk look more like human-sized spiders, but spiderfolk come in all shapes and sizes.
 
-> When telling a story that includes the Silk Grove, consider the following:
+> **When telling a story that includes the Silk Grove, consider the following:**
 > - How do the spiders know what the trees need, and vice versa?
 > - How do visitors to the grove know to be careful with the space?
 > - What is your relationship to the tree that gives you shelter?
 > - What does Silk Grove teach you about the ways your home provides you shelter—and how do you maintain the safety of your home in return?
 
 ## Story Arc: The Elder Tree
-Most of the trees in Rynwood are older than some cities, but at the heart of the Forest of Silk is the Elder Tree, a massive giant that provides nutrients to the whole forest. In this story, we will visit the Elder Tree, and discover a sickness that threatens all of Rynwood.
+Most of the trees in Rynwood are older than many cities. At the heart of the Forest of Silk is the Elder Tree, a massive giant that provides nutrients to the whole forest. In this story, we will visit the Elder Tree, and discover a sickness that threatens all of Rynwood.
 
 ### The First Gathering
 When we first meet, we are on our way to Rynwood. Some of us might just be passing through on the way to somewhere else; others have business in the Forest of Silk. All of us know someone who lives in the forest, who has told us how to be careful if we haven't been here before. The spiders are nervous, but not about us; something is happening to Rynwood, and no one is talking about it.

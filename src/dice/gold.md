@@ -8,7 +8,7 @@ eleventyNavigation:
 byline: lexi
 artist: sin
 description: |
-    See how my gold gleams! Stare as I shine in the light, watch how it plays on every lovingly crafted pip upon my surface, the gently rounded corners and firm edges. An unfairly balanced die? Me? Never, Weaver! Would I lie to you?
+    See how my gold gleams! Stare as I shine in the light, watch how it plays on every lovingly crafted pip upon my surface, the gently rounded corners and firm edges. An unfairly balanced die? Me? Never, Weaver[#Lexi: A note that this is an unusual capitalization of weaver; the Gold Die uses it as a form of direct address. We might still want to remove that capitalization]! Would I lie to you?
 
     You know me, Weaver. I am wealth, and with wealth comes power. I am here to give you what you need, what you *deserve*. Let us spend, let us buy! Put behind you those memories of going to sleep hungry, of looking longingly at what you cannot have.
 art: "gold.png"

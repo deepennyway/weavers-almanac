@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: The Temptation of the Weavers
 byline: sen
 weight: 2
@@ -8,9 +9,9 @@ downloads:
 type: chapter
 ---
 
-For eons, a rift or echo would appear, humming a haunting tune. Practiced weavers in particular hear a choir singing in harmonious clarity, and are known to be lured away from the world as a result.
+For eons, a rift or echo would appear, humming a haunting tune. Practiced weavers, in particular, hear a choir singing in harmonious clarity, and are known to be lured away from the world as a result.
 
-> This piece includes an audio track, as well as sheet music, if you want to sing along.
+> This piece includes an audio track, as well as sheet music, if you want to sing along. [#Lexi: Extremely broken formatting on the web page, Leaving the lyrics alone, but the box here is very nonfunctional]
 > 
 > {{<downloads>}}
 > 

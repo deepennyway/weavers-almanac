@@ -1,8 +1,10 @@
 ---
+edited: Yes
 title: Capital City
 type: chapter
 byline: deepennyway
 ---
+
 One day someone showed up in expensive-looking clothes. They called themselves a Capitalist. They told us that there was a place nearby called Capital City, where anyone could go to find their fortune. They told us that a fortune was a thing to be coveted. 
 
 Capital City is protected by spells that keep it hidden from the world. It has to be that way, the Capitalist said, to make sure it doesn't get found by those who would ruin it for everybody. But for those who are ready to find their fortune, all they have to do is bring their wares into the city. The invisible market will take care of the rest. That was what the Capitalist said.
@@ -17,14 +19,14 @@ Capital City is a wondrous place, the Capitalists say. And for the people who ar
 
 ***
 
-> If you tell a story about the Invisible Market, here are some things you should know:
+> If you tell a story about the Invisible Market, here are some things you should know: [#Lexi: I like the shift from invisible market to Invisible Market here and think we should keep it]
 > - The Invisible Market is not your friend. It's not anyone's friend.
 > - The Invisible Market grants success at the expense of those who fail.
 > - The Invisible Market is always hungry.
 > - The rest of the world has survived without the Invisible Market.
 
 ## Story Arc: Into the Invisible Market
-In this story, you've all decided to check out the Invisible Market. You've packed up your wares and your creations and headed to the field, and entered its strange invisible space.
+In this story, you all decide to check out the Invisible Market. You've packed up your wares and your creations and headed to the field, and you've entered its strange invisible space.
 
 ### First Gathering
 You've all come here for a reason: to pay a debt, to find comfort in wealth, to build something greater than yourselves. You have your own reasons for coming here, but now that you're here, the murky spellwoven barrier looms ominous before you, gives you pause.
@@ -36,4 +38,4 @@ In the corners of alleys, in the shadows of empty buildings, you see artists str
 Someone has noticed your interventions, and they're not happy with your meddling. If you don't dismantle the Market, or find a way to escape, it will swallow you whole and never let you leave.
 
 ### Laid to Rest
-Fortune or failure, the Market leaves you changed, those who manage to leave its barrier. The journey home is long and quiet, and leaves ample time to consider the cost of wealth.
+Fortune or failure, the Market leaves you changed, even those who manage to leave its barrier. The journey home is long and quiet, and leaves ample time to consider the cost of wealth.

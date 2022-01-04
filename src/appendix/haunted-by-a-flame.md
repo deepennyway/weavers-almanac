@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Haunted By A Flame
 byline: noordin
 type: chapter

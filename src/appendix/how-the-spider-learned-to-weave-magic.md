@@ -1,16 +1,17 @@
 ---
+edited: Yes
 title: How The Spider Learned To Weave Magic
 byline: kyle
 weight: 2
 type: chapter
 ---
-There was once a lone spider who was only as large as a chestnut. She was small, but she was crafty, and with skill she wove webs in order to trap her prey. On the first night of the full moon she saw a figure on two legs, that glowed like a sun, stumbling his way towards her. Quickly she spun a web of threads as thin as a moonbeam, placed directly in the figure’s path. Not minding where he was going the figure stepped directly into it, becoming trapped in the shimmering threads.
+There was once a lone spider who was only as large as a chestnut. She was small, but she was crafty, and with skill she wove webs in order to trap her prey. On the first night of the full moon she saw a figure on two legs, glowing like a sun, stumbling his way towards her. Quickly she spun a web of threads as thin as a moonbeam, placed directly in the figure’s path. Not minding where he was going, the figure stepped directly into it, becoming trapped in the shimmering threads.
 
 “Unhand me!” said the god, for what other manner of being would walk defenselessly at such a time?
 
 “I will not,” said the spider, “Unless you grant my request.”
 
-The god cursed and pleaded, transforming into a thousand myriad forms, but the spider’s webs were true and held fast. Finally he relented, returning to his first form. “Very well then, little one. What is it you wish?”
+The god cursed and pleaded, transforming into a thousand myriad forms, but the spider’s webs were true and held fast. Finally, he relented, returning to his first form. “Very well then, little one. What is it you wish?”
 
 “Make me bigger, for I do not want to be squashed underfoot. Make it so that I can see others eye to eye, and that we are as equals.”
 
