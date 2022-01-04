@@ -4,6 +4,10 @@ title: Harbor of Sound and Colors
 byline: valis
 type: chapter
 weight: 2
+artist: sin
+art: harbor of sound.png
+arttext: "A collection of small boats docked in a bay. In the foreground, a spear covered in seaweed leans against a rock surface."
+
 ---
 When the sun shines upon the rooftops adorned with colorful fabrics and nets hanging from one home to the other, the residents of this quiet sea village stirs to life, welcoming dawn with open arms. 
 

@@ -4,6 +4,10 @@ title: The Glittering Graveyard
 byline: noordin
 weight: 2
 type: chapter
+artist: sin
+art: glittering graveyard.png
+arttext: "A sailboat approaches a ruined city of skyscrapers in the distance."
+
 ---
 
 Search in the places that no one goes and you will find them. Twisted metal superstructures peek out of forgotten earth, like bones of something long dead. The buildings themselves are half swallowed by the ground they stand in, multiple levels of blinking light and groaning floors burrowing deep, with artifacts of life sprinkled in between.

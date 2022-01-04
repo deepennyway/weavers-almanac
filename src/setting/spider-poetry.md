@@ -2,6 +2,9 @@
 edited: Yes
 title: Spider Web Poetry
 byline: guanzon
+artist: sin
+art: spider web poetry.png
+arttext: "A feline traveler studies a delicate spider web."
 ---
 
 Some spiders use their web as a form of expression. By laying patterns of silk over a scene, they create their own “poem”—a collaboration with their environment to express a complicated relationship with the world around us.

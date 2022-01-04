@@ -2,6 +2,9 @@
 edited: Yes
 title: Rynwood, the Forest of Silk
 byline: deepennyway
+artist: sin
+art: rynwood.png
+arttext: "A grove of trees, with deicate spider webs connecting them."
 ---
 
 Seen from afar, the forest known as Rynwood looks like any other stand of old-growth trees, with vibrant green canopies and thick brown trunks. Coming closer, a traveler starts to see movement among the branches, imperceptible shifts of the foliage and the bark. Come close enough, and you'll see the vast network of silk threads that give the Forest of Silk its name.

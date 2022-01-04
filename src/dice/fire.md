@@ -8,7 +8,6 @@ eleventyNavigation:
 byline: deepennyway
 artist: sin
 art: fire.png
-texture: burn3.png
 arttext: "A weaver in a white rabbit mask holds a magical flame in their hand."
 description: "The Fire Die is bright and red, with crisp golden numbers etched into each side. Its heart is flecked with amber and coal."
 effect:

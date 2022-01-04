@@ -4,6 +4,9 @@ title: Requiem Nimbus
 byline: crimsonstripes
 type: chapter
 weight: 2
+artist: sin
+art: requiem nimbus.png
+arttext: "A trio of skeletal neighbors gather in the backyard."
 ---
 
 As it crawled its way up the horizon it consumed everything and anything, every shape of color, every ray of light, and every corner of the eye.

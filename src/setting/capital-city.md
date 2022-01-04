@@ -3,6 +3,10 @@ edited: Yes
 title: Capital City
 type: chapter
 byline: deepennyway
+artist: sin
+art: capital city.png
+arttext: "An empty field, and a wooden sign saying 'Success awaits you'."
+
 ---
 
 One day someone showed up in expensive-looking clothes. They called themselves a Capitalist. They told us that there was a place nearby called Capital City, where anyone could go to find their fortune. They told us that a fortune was a thing to be coveted. 

@@ -3,6 +3,10 @@ edited: Yes
 title: The Children of An and Enki
 byline: nic
 type: chapter
+artist: sin
+art: The Children of An and Enki.png
+arttext: "A mountaintop with a finger of stone reaches toward the sky, where a cloud reaches down toward earth."
+
 ---
 
 It was long ago, in a time before time, that Enki the Earth and An the Sky glimpsed each other. Both infinite in their power and majesty, it was their antipodal differences that first drew them to each other, though those differences initially shocked and repulsed—so much so that, shortly after that fateful first glance, Earth and Sky warred for six days and seven nights in that timeless, primordial chaos. Upon the seventh day their warlike embrace became a loving one, and the union of Earth and Sky produced children that were not entirely of one world or the other, but who stood upon both.

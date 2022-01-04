@@ -2,6 +2,9 @@
 edited: Yes
 title: Sand
 byline: nic
+artist: sin
+art: sand.png
+arttext: "An hourglass, half buried in sand."
 eleventyNavigation:
     key: Sand
     parent: Dice

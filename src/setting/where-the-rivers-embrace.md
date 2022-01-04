@@ -3,6 +3,9 @@ edited: Yes
 title: Where The Rivers Embrace
 byline: nic
 type: chapter
+artist: sin
+art: where the rivers embrace.png
+arttext: "Two rivers meet, lined with trees. Mountains rise in the distance."
 ---
 
 Twin tributaries of shimmering crystal, blue veins feeding and fed by the pulsing heart of a salt sea. They run parallel for countless miles before becoming locked in tumultuous embrace, just before disappearing into the wild blue. The Twin Rivers, they of too many names to name, define these lands, the fertile delta of this alluvial plain: flooded grassland and scorched savannah and salt marsh.

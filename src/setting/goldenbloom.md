@@ -4,6 +4,10 @@ title: The Goldenbloom
 byline: crimsonstripes
 weight: 2
 type: chapter
+artist: sin
+art: goldenbloom.png
+arttext: "An airship suspended from a balloon flies through the air, with weighted sacks hanging below."
+
 ---
 
 Dusk, dawn, or high noon, the ship gleams rays of gold to pierce even the thickest clouds that stood in its way. The Goldenbloom is more than just a vessel, it’s a way of life. Your life.

@@ -4,6 +4,10 @@ title: The Tale of Five Strings
 byline: synxiec
 type: chapter
 weight: 2
+artist: sin
+art: tale of 5 strings.png
+arttext: "A distant village on the other side of a dried out, cracked lakebed."
+
 ---
 
 Every culture shares stories that inspire courage, share knowledge, and teach wisdom. Among those stories is one about a drought, the five weavers that brought rain to end it, and the wisdom they left for those who would come after them. 

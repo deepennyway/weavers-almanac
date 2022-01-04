@@ -2,6 +2,9 @@
 edited: Yes
 title: Discourse
 byline: deepennyway
+artist: sin
+art: discourse.png
+arttext: "A walled city nestled in a crater surrounded by water, with arched bridges leading out."
 eleventyNavigation:
     key: Discourse
     parent: Dice

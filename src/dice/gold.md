@@ -12,7 +12,7 @@ description: |
 
     You know me, Weaver. I am wealth, and with wealth comes power. I am here to give you what you need, what you *deserve*. Let us spend, let us buy! Put behind you those memories of going to sleep hungry, of looking longingly at what you cannot have.
 art: "gold.png"
-arttext: The Gold Die
+arttext: A pair of golden scales for measuring weights.
 effect:
     bend: Insignificant? Me? Ignore that voice within you, dear Weaver! Put those ascetic virtues from your mind. You committed when you rolled me. Come! A coin of shining metal in your palm to ease your mind. Take me up, and roll again! Think of what riches await. 
     weave: What you need, Weaver? Why, it’s yours, whatever it might be. Finding it is no obstacle to me, to us. Know that when you need it, where you need it, it is ready for the taking by you and you alone. Who ever said, Weaver, that there’s no such thing as something for nothing? And at one-in-three odds, Weaver! Such easy profit. Perhaps you’re on a lucky streak? We could go again and find out. 

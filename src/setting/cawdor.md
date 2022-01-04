@@ -3,6 +3,9 @@ Edited: True
 title: Cawdor
 byline: lexi
 type: chapter
+artist: sin
+art: cawdor.png
+arttext: "A castle rests on a hill with many windows and towers. Small houses rest on one side of the hill in the castle's shadow."
 ---
 
 Atop the hill rests the crown of the Sky District, where those with wealth and power congregate and rule. Within that lies its jewel, the Heaven District, where all manner of arcanists seek untold secrets. They are not weavers; their art is a different beast. Make no mistake: these are the rulers of the city of Cawdor. Their words and desires are as laws.
