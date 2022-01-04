@@ -1,10 +1,12 @@
 ---
+edited: Yes
 title: The Last Ritual
 byline: valis
 type: chapter
 weight: 98
 ---
-For the times where the memories are too painful to bear, when sorrow plagues your waking hours and the burden is too heavy to carry. This is the last ritual before your new remembering, and hopefully, the last of Last Rituals.
+
+This is for the times when the memories are too painful to bear, when sorrow plagues your waking hours and the burden is too heavy to carry. This is the last ritual before your new remembering, and hopefully, the last of Last Rituals.
 
 **This is how we put to sleep the pain that hampers your spirit.**
 
@@ -18,7 +20,7 @@ Or failed to do.
 
 Gather them, and feel their weight in your hands for one last time. 
 
-Feel the sorrow that premates from them, but do not linger. 
+Feel the sorrow that permeates from them, but do not linger,
 
 For this is the last time you will feel it. 
 
@@ -40,4 +42,4 @@ Tell the dust that settles:
 	And I will keep doing so without you.
 	It is time to move on.
 	It is time to for a new remembering,
-	Ones better than the last.
+	One better than the last.
