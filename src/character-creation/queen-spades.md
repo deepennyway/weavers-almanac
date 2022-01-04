@@ -1,8 +1,6 @@
 ---
 title: The Engineer
 tagline: Queen of Spades
-art: "queen of spades.png"
-arttext: "Queen of Spades"
 strong: "Spades"
 weak: "Clubs"
 skills:

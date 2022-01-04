@@ -3,6 +3,9 @@ title: Harbor of Sound and Colors
 byline: valis
 type: chapter
 weight: 2
+artist: sin
+art: harbor of sound.png
+arttext: "A collection of small boats docked in a bay. In the foreground, a spear covered in seaweed leans against a rock surface."
 ---
 When the sun shines upon rooftops adorned with colorful fabrics and nets , hanging from one home to the other, the residents of this quiet sea village stirs to life, welcoming dawn with open arms. 
 
@@ -23,7 +26,7 @@ Remnants of the Old War, though present, have been given new life, new colors, n
 ### First Gathering
 You’ve heard rumors about this spear. The grief and tragedy it has caused travel far and wide, as if it has left a permanent scar on this world. The residents don’t seem to acknowledge it, hustling along their busy day-- save for a select few. They have the look of someone who has seen far too much.
 
-### Scene Play
+### Into the Grey
 The people of the village invite you to join in the nightly festivities. Tonight is one of how the Harbor gained its name, and you help with the preparations needed, learning more about its traditions and beliefs, yet never about the spear.
 
 ### Deck Burner

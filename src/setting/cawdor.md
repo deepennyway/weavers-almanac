@@ -2,6 +2,9 @@
 title: Cawdor
 byline: lexi
 type: chapter
+artist: sin
+art: cawdor.png
+arttext: "A castle rests on a hill with many windows and towers. Small houses rest on one side of the hill in the castle's shadow."
 ---
 
 Atop the hill rests the crown of the Sky District, where those with wealth and power congregate and rule. Within that lies its jewel, the Heaven District, where all manner of arcanists seek untold secrets. They are not Weavers; their art is a different beast. Make no mistake: these are the rulers of the city of Cawdor. Their words and desires are as laws.
@@ -26,9 +29,10 @@ The story of Cawdor is the story of power and its price. We see the marvels of t
 ### First Gathering
 A plague, the physicians tell us, is taking the city. It started, they will admit only grudgingly, in the Swamp District—where it was totally ignored until it began to reach the wealthier districts. The people demand official action. The finest minds of the Heaven District have no answer, so the Sky District calls upon an older tradition, potent but outside of their control: Weavers.
 
-### Free [[Scene?]] Play
+### Into the Grey
 We seek the root of the disease, its origin, with an official mandate. We follow the stories of those harmed by it. We find the commonalities among those who are officially the worst affected, laborers in Mountain District workshops and in Heaven District laboratories. We go to those who are in truth suffering most: the pollutant-bathed untouchables in the Swamp District. We ask questions of Heavenly arcanists that they might not enjoy.
-###Deck Burner
+
+### Deck Burner
 The truth is undeniable: this is not a plague. This is contamination. Many substances used in the miracles of Heaven District alchemy are toxic with extended exposure, and the arcanists knew it. This cannot go on. Whether we turn Sky and Heaven against each other by evidence of their malfeasance or we reveal the truth to the people of the city and leave things in their hands, the Heavenly arcanists will cling to power until it is taken from them.
 
 ### Laid to Rest

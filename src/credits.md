@@ -1,5 +1,5 @@
 ---
-title: "Acknowledgments"
+title: "Credits & Acknowledgments"
 parent: main
 layout: credits.njk
 order: 1

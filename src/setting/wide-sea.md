@@ -26,7 +26,7 @@ One of the Keeper’s pearls is rumored to have been found by the famous Feather
 ### First Gathering
 Everyone has heard the story. The Keeper’s pearls are legendary and wish-granting. You could either have your wildest dreams within your grasp or sell it to the highest bidder, but for you, anyone’s hands are better than Halzen Lockheart’s. Talk about why this is so for your character.
 
-### Scene Play
+### Into the Grey
 The story begins with a brief flashback to your crew coming together to talk about how the heist is supposed to go. As soon as that’s settled, you play through your plans to get on this exclusive auction and somehow win the prize before Lockheart can get his hands on it. The night begins with a lights show just as the food gets rolled into the auction hall.
 
 ### Deck Burner

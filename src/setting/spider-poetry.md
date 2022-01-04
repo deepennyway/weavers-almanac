@@ -1,6 +1,10 @@
 ---
 title: Spider Web Poetry
 byline: guanzon
+artist: sin
+art: spider web poetry.png
+arttext: "A feline traveler studies a delicate spider web."
+
 ---
 
 Some spiders use their web as a form of expression. By laying patterns of silk over a scene, they create their own “poem” - a collaboration with their environment to express a complicated relationship with the world around us.
@@ -27,7 +31,7 @@ We’ve found a place that we will leave behind, but want to leave our heart her
 We are on our travels and have found a place of beauty, but we will depart soon enough to address more concerning dangers. What sort of place has moved your hearts? Where are you headed once the festival is over?
 
 
-### Free Play
+### Into the Grey
 
 There are similar pieces to every place of wonder: Pieces where light finds its way in and the day creatures rely on, barriers that define this place from that, dark pieces where the vulnerable creatures find refuge. We will find what we each think is beautiful here.
 

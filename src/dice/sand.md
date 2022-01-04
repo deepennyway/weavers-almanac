@@ -5,6 +5,9 @@ eleventyNavigation:
     key: Sand
     parent: Dice
     order: 1
+artist: sin
+art: sand.png
+arttext: "An hourglass, half buried in sand."
 effect:
     bend: Sands in the hourglass, flowing upwards. The gentlest of nudges; a single grain to tip the scales. The slightest, most subtle change, rippling outwards like a pebble in a pond. A single mote of dust, suspended in a sunbeam, containing the entire universe… in the palm of your hand.
     weave: A glittering sirocco, a cyclone of fate, spinning jewelled sands like constellations casting patterns only you can see, shapes only you can decipher. The sands cast a skein, a net, a web of fate. Look closer. What do you see?

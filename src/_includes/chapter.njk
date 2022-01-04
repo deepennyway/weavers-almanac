@@ -22,11 +22,20 @@
 
 {% block content %}
     <h1>{{ title }}</h1>
-        {% if byline %}
-            <h2 class="author">written by {% byline credits, byline %}</h2>
-        {% endif %}
-        {% if artist %}
-            <h2 class="artist">illustrated by {% byline credits, artist %}</h2>
+        {% if byline and artist %}
+            {% if byline == artist %}
+                <h2 class="author">written and illustrated by {% byline credits, byline %}</h2>
+            {% else %}
+                <h2 class="author">written by {% byline credits, byline %}</h2>
+                <h2 class="artist">illustrated by {% byline credits, artist %}</h2>
+            {% endif %}
+        {% else %}
+            {% if byline %}
+                <h2 class="author">written by {% byline credits, byline %}</h2>
+            {% endif %}
+            {% if artist %}
+                <h2 class="artist">illustrated by {% byline credits, artist %}</h2>
+            {% endif %}
         {% endif %}
         
     {% if art %}{% image art, arttext, "narrow" %}{% endif %}

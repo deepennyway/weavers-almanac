@@ -27,9 +27,9 @@ Begin with a paragraph that introduces the basic premise of the arc. What is thi
 The First Gathering session introduces the players to their characters, to the group, and to the subject of the arc. This paragraph should provide the players with enough context to play through that session format.
 
 
-### Free Play
+### Into the Grey
 
-Free Play follows the players’ navigation of a situation through a series of controlled vignettes. This paragraph should provide the players with context for where the scenes are taking place and what’s at stake.
+Into the Grey follows the players’ navigation of a situation through a series of controlled vignettes. This paragraph should provide the players with context for where the scenes are taking place and what’s at stake.
 
 
 ### Deck Burner

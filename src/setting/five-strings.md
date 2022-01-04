@@ -3,6 +3,9 @@ title: The Tale of Five Strings
 byline: synxiec
 type: chapter
 weight: 2
+artist: sin
+art: tale of 5 strings.png
+arttext: "A distant village on the other side of a dried out, cracked lakebed."
 ---
 
 

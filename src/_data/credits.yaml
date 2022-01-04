@@ -93,16 +93,16 @@
 
 - code: nic
   coreteam: yes
-  fullname: N. Masyk
-  shortname: Nicholas
-  byline: N. Masyk
+  fullname: Noora Rose
+  shortname: Noora
+  byline: Noora Rose
   twitter: monkeyspawgames
   itchio: monkeys-paw-games
   web: https://www.monkeyspawgames.com
   bio: |
-    Nic is a biracial Black writer, editor, layout artist, producer, distributor, and publisher of tabletop role-playing games based out of Eastern Canada. Nic's games seek to inject anti-colonial, anti-racist, and anti-fascist narratives into the lens of science fiction, fantasy, and horror.
+    Noora is a biracial Black writer, editor, layout artist, producer, distributor, and publisher of tabletop role-playing games based out of Eastern Canada. Noora's games seek to inject anti-colonial, anti-racist, and anti-fascist narratives into the lens of science fiction, fantasy, and horror.
 
-    In addition to Mnemonic, Nic has written for such projects as Trophy, Spire, Candlelight, Codex, Token, There's Something In The Ice, Disc Horse, Scrap's Burgers, the San Jenaro Short Games Digest, and Nic's own projects: UNCONQUERED, Chalice, Into the Black, and others.
+    In addition to Mnemonic, Noora has written for such projects as Trophy, Spire, Candlelight, Codex, Token, There's Something In The Ice, Disc Horse, Scrap's Burgers, the San Jenaro Short Games Digest, and Noora's own projects: UNCONQUERED, Chalice, Into the Black, and others.
   roles:
     - Writer
 
@@ -208,6 +208,8 @@
 - code: kyle
   fullname: Kyle Tam
   byline: Kyle Tam
+  twitter: PercyPropa
+  web: https://whatkylewrites.carrd.co
   roles:
     - Writer
 

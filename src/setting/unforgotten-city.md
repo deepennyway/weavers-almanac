@@ -3,6 +3,10 @@ title: The Unforgotten City
 byline: synxiec
 type: chapter
 weight: 2
+artist: sin
+art: unforgotten city.png
+arttext: "A building in a raining city, where the windows and walls of the building's exterior look like a face."
+
 ---
 Among the wonders of the world are its cities. Each with its own stories and legends with people that create new ones all the time. While some cities are remembered for their events, others cities are sentient and remember things of their own while enjoying the new memories that their citizens make. 
 

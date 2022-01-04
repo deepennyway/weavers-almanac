@@ -3,6 +3,9 @@ title: The Goldenbloom
 byline: crimsonstripes
 weight: 2
 type: chapter
+artist: sin
+art: goldenbloom.png
+arttext: "An airship suspended from a balloon flies through the air, with weighted sacks hanging below."
 ---
 
 Dusk, dawn, or high noon, the ship gleamed rays of god to pierce even the thickest clouds that stood in its way. The Goldenbloom is more than just a vessel, it’s a way of life, your life.
@@ -25,7 +28,7 @@ First we swam, then we walked, and now we fly. When the islands first raised up 
 ### First Gathering
 Those that hadn’t settled on the islands made their homes in airships, and a delicate dynamic between the two was born— skyfarers became a necessity and islanders their hubs and ports. This was the new order of things, one needing the other, lest everything fall apart and become lost to time.
 
-### Scene Play
+### Into the Grey
 Though the crescendo of the calamity that was had passed, it never truly ceased, shifts in the islands and clouds, seen or unseen, took their forms and came and went. With this new world came a new frontier, one that could be explored, expedited, and exploited to hearts’ content.
 
 ### Deck Burner

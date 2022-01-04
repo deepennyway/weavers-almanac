@@ -2,6 +2,10 @@
 title: Where The Rivers Embrace
 byline: nic
 type: chapter
+artist: sin
+art: where the rivers embrace.png
+arttext: "Two rivers meet, lined with trees. Mountains rise in the distance."
+
 ---
 
 Twin tributaries of shimmering crystal, blue veins feeding and fed by the pulsing heart of a salt sea, running parallel for countless miles before becoming locked in tumultuous embrace, just before disappearing into the wild blue. The Twin Rivers, they of too many names to name, define these lands, the fertile delta of this alluvial plain; flooded grassland and scorched savannah and salt marsh.
@@ -21,7 +25,7 @@ This year, like every year, the ritual must take place to celebrate and secure t
 ### First Gathering
 The priestess awaits in the temple, as is tradition, garbed in silk and samite and fine jewels. And, as is tradition, would-be guardians await without, boasting of their exploits in hopes that they will be the one chosen. Of the glimpse gleaned of the priestess: in what way are they elegant and worldly? In what way are they naive? In what way do you stand out among the other would-be guardians?
 
-### Free Play
+### Into the Grey
 The wilds outside of the city are perilous for the unwary. What powers natural and unnatural stand in the way? In what way is the journey made easier in an unexpected manner?
 
 The priestess has prepared for this moment their entire life. How does that training and preparation, in turn, teach and guide the guardians?

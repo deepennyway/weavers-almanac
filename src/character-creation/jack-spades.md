@@ -1,8 +1,6 @@
 ---
 title: The Fighter
 tagline: "Jack of Spades"
-art: "jack of spades.png"
-arttext: "Jack of Spades"
 strong: "Spades"
 weak: "Clubs"
 skills:

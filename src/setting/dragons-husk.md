@@ -28,7 +28,7 @@ In this story, we'll explore the ruined corpse of one of these massive creatures
 ### First Gathering
 We meet our circle of weavers in a village nearby. It’s a place where travelers stop to rest before making the arduous detours necessary to avoid stepping too close to the Husk. In our sleep, we are all tormented by tempting whispers: riches, power, secrets.
 
-### Scene Play
+### Into the Grey
 Something draws us near the Husk: a promise of answers to questions, or a request to retrieve an heirloom that was lost long ago. 
 
 ### Deck Burner

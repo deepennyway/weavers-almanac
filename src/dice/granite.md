@@ -5,6 +5,9 @@ eleventyNavigation:
     parent: Dice
     order: 1
 byline: noordin
+artist: sin
+art: granite.png
+arttext: "A brick wall, partially constructed."
 description: A pinkish brown block. Its surface is scattered with white patterns, looking like mortar between bricks. Some kind of dark plant matter has been rubbed into the uneven scratches in its sides.
 effect:
     bend: An extra drop in every canteen, a fire that lasts that moment longer, new vigour into old bones. No one will see it, but even a little given many times over can do big things.

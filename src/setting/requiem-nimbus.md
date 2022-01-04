@@ -3,6 +3,9 @@ title: Requiem Nimbus
 byline: crimsonstripes
 type: chapter
 weight: 2
+artist: sin
+art: requiem nimbus.png
+arttext: "A trio of skeletal neighbors gather in the backyard."
 ---
 As it crawled its way up the horizon it consumed everything and anything, every shape of color, every ray of light, and every corner of the eye.
 
@@ -23,7 +26,7 @@ Muck and mud and steel and wood and blood and bones— the definitions of war, t
 ### First Gathering
 It’s been long past those years where soldiers sat in trenches and foxholes, but the silence of stalemate stays, as do the cracks of gunshots that eventually break them. With the storm came those once was, and with them came the world they once lived.  
 
-### Scene Play
+### Into the Grey
 Though the chaos of the wars that were stayed in their graves, their victims were dug out of theirs. With each passing one came their own struggles, their own traumas, somehow entirely different yet perfectly identical from the last and the next. All hopelessly condemned to a suffering that’s already happened and will happen again.
 
 ### Deck Burner

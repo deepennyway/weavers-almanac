@@ -2,6 +2,9 @@
 title: The Children of An and Enki
 byline: nic
 type: chapter
+artist: sin
+art: The Children of An and Enki.png
+arttext: "A mountaintop with a finger of stone reaches toward the sky, where a cloud reaches down toward earth."
 
 ---
 
@@ -21,7 +24,7 @@ Every year at the appointed time, the Sun and Moon and Stars align in such a way
 ### First Gathering
 You have joined the Grand Conjunction, to share and revel and learn at the feet of these Children of Earth and Sky. How does the ground ripple beneath their feet? How does the air charge and crackle with their voices? How have you come to catch the eyes of the Children?
 
-### Free Play
+### Into the Grey
 The revelry begins. Great bonfires are sparked, offerings burned, and the food and drink and good cheer are free-flowing. What tales of courage and skill are told among the People? What feats of witchcraft and skill are displayed by the Children?
 
 ### Deck Burner
