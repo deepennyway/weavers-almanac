@@ -96,7 +96,7 @@ Where do you derive your strength?
 ### The Power
 Nobody just stands there in the mists looking mysterious. Everyone's doing something. What is it that you are doing, when you first appear?
 
-Choose one of the following based on how many Complications are currently in the Adversary's pool: [#Lexi: The exact criteria are unclear, other than that you can't remove a Complication that doesn't exist]
+Choose one of the following:
 
 - **You Do Something Impressive:** You spot someone in need of help and use one of the skills associated with your strong suit to help them. \
     *Remove a **Complication** from the Adversary's pool.*
@@ -159,8 +159,8 @@ Quickly build a **Group Scene** using the pool of Complications you accumulated 
 3. **Execute the Plan:** Have each player roll a number of dice equal to the rating of the skill they chose, keeping only the highest roll.
 4. **Things Go Wrong:** Roll the Adversary's dice, and keep them separate.
 5. **Sort It Out:** Starting with the lowest roll, have each player describe their actions in the scene. If a Complication die interrupts the order, describe how things go wrong. When you get to the highest roll, determine Victory or Defeat based on whether the highest roll belonged to the Adversary or one of the players:
-    - **Victory:** The characters overcome the scene’s obstacles and resolve the scene on their own terms. The player with the highest roll describes how their action brings the scene to a close.
+    - **Victory:** The characters overcome the scene’s obstacles and resolve the scene on their own terms. The player with the highest roll describes how their action brings the scene to a close. If multiple players have the highest roll, those players work together to describe their collective action.
     - **Defeat:** The characters are overwhelmed by the consequences of their actions and are forced to live with them, at least for now.
-    - [#Lexi: Tie resolution since there's no Draw here?]
+    - **Draw:** In the case of the players sharing the highest roll with the Adversary, the players take the victory.
 
 Whether the scene ended in Victory or Defeat, *The First Gathering* ends here. Take a moment to wrap things up. Discuss what your characters intend to do next and what you plan to do next.

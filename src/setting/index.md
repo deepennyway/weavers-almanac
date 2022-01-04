@@ -14,7 +14,7 @@ The entries in this chapter describe places, people, events, or objects of inter
 
 For storytellers who want to flesh out the world in similar ways, we've also provided a template that you can use to write your own anti-canon setting entries.
 
-Take what you need. Change what doesn't fit. Discard the rest. Enjoy your journey through the world of memory. [#Lexi: Assuming we don't want "[the] World of Memory" capitalized as a Thing]
+Take what you need. Change what doesn't fit. Discard the rest. Enjoy your journey through the world of memory.
 
 ## Using the Setting & Stories
 When starting a new game, you can pick one of the settings in this chapter as a starting point for deciding what kind of story you want to tell together. The Story Arc section of each entry provides some loose scaffolding for a full story using that place as a focal point. That said, each of these entries is intended to only serve as a *starting point*. Think of them as pieces of inspiration to use if you need them.

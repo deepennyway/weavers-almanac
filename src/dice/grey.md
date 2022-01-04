@@ -14,7 +14,7 @@ effect:
     bend: You can feel it—the weight of something beyond yourself pressing in, affecting the world around you, tilting things ever so slightly in your favor, falling out of balance. Maybe nothing happened. Maybe it just hasn't happened *yet*. 
     weave: Doom comes with the memory of those you've lost, and an aching need to protect those who are still here. Those around you can feel it, the gloom in your eyes that drives you to action. 
     fray: The pain comes before you're ready, with the memory of a day of profound sorrow. In the wake of your remembered grief, the task before you... arranges itself to completion. You are left to deal with the consequences, without any memory of how they occurred. Did you do this? Or was it done on your behalf? 
-    tear: The world ends. Suddenly. Tragically. A new world might eventually rise in its place, but everything you cared about is gone—forever. [#Lexi: Adding the em dash to the start of bend and the end of tear, I think, REALLY makes it hit harder. 😰]
+    tear: The world ends. Suddenly. Tragically. A new world might eventually rise in its place, but everything you cared about is gone—forever.
 ---
 
 We think of the Grey as this amorphous, wandering, indistinct cloud of fog that rolls across the world. Thicker than the mists, it carries with it feelings of uncertainty and omen. We try not to think of the Mage who took its name, the one who used its power to end the dominion of the dragons.

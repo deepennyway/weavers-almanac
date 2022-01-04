@@ -1,4 +1,3 @@
-EDITED: Yes. Minimal changes. Very minimal.
 ---
 title: The Soldier
 tagline: King of Spades

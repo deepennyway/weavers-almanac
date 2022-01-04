@@ -19,7 +19,7 @@ Capital City is a wondrous place, the Capitalists say. And for the people who ar
 
 ***
 
-> If you tell a story about the Invisible Market, here are some things you should know: [#Lexi: I like the shift from invisible market to Invisible Market here and think we should keep it]
+> If you tell a story about the Invisible Market, here are some things you should know:
 > - The Invisible Market is not your friend. It's not anyone's friend.
 > - The Invisible Market grants success at the expense of those who fail.
 > - The Invisible Market is always hungry.

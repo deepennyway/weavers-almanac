@@ -11,7 +11,6 @@ effect:
     weave: A glittering sirocco, a cyclone of fate, spinning jewelled sands like constellations casting patterns only you can see, shapes only you can decipher. The sands cast a skein, a net, a web of fate. Look closer. What do you see?
     fray: A sandstorm of fate; stinging, whipping, scouring, burning. Destiny, chance, fate, fortune; the sands of time swirl and coalesce around you. Everything is within your grasp, just within reach. You can have it, all of it, if you but reach out and take it. What does it matter if a few grains scatter and fall?
     tear: The sands of time have run out—for you, or for another. The glass shatters, the wind wails, and all is dust scattered on uncaring winds, slipping through your fingers to drift away, forever out of reach.
-
 description: |
     Sand: cool, and soft, with an inner warmth that tingles, *tempts*. Hard-packed, it raises topless towers of the imagined, vast castles upon a crashing shoreline. Carried aloft, bitter and stinging, biting, the hot breath of desert dunes is like piercing needles, blinding and scouring. Loose, and scattered, it trickles through fingertips to twinkle and glimmer in fading light like the promise of stars. The grains in an hourglass slip away into the infinite.
     

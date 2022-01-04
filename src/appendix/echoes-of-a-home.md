@@ -16,18 +16,18 @@ Use this generator when you run into someone who hails from your homeland—the 
 5. A long lost relative you thought had died. Ask them: what really happened to the rest of us? They will ask for nothing in return.
 6. A familiar face that’s displeased to see you. Answer: what happened between the both of you in your homeland? They will ask for retribution, an apology, or a way to make amends.
 
-## What Do They Offer You? [#Lexi: Maybe put periods after these? They're not sentences but it feels like it might look better that way.]
-1. A traditional, yet cheaply made and greasy-tasting, delicacy
-2. A handicraft made with a method only known to your people
-3. An old weapon, repurposed and refitted for non-violent uses
-4. A valuable antique, well-preserved but considered worthless
-5. A bottle of drink, steeped in a flavour only your people can appreciate
-6. A booklet of curses and blessings written in your mother tongue
+## What Do They Offer You?
+1. A traditional, yet cheaply made and greasy-tasting, delicacy.
+2. A handicraft made with a method only known to your people.
+3. An old weapon, repurposed and refitted for non-violent uses.
+4. A valuable antique, well-preserved but considered worthless.
+5. A bottle of drink, steeped in a flavour only your people can appreciate.
+6. A booklet of curses and blessings written in your mother tongue.
 
-## What Remembrance Does It Evoke? [#Lexi: Thoughts on removing the Constant Capitalization and bolding instead?]
-1. Comfort and Security. Ask yourself: what or who kept you safe during the war? The item possesses the power to bring you to safety or protect you using that very form.
-2.  A Lost Love. Ask yourself: who did you love and how did you lose them? The item possesses the power to point you in the direction of something you now seek and provide the best path you can take to get it.
-3.  Your Parents. Ask yourself: what do you wish to remember about them? The item possesses the power to communicate with them one last time. You may ask them any question, which they will answer truthfully.
-4.  Better Times. Ask yourself: what are your fondest memories of your homeland? The item possesses the power to let you relive those memories with someone else of your choosing.
-5.  War. Ask yourself: what do you wish to forget? The item possesses the power to call forth destruction and terror akin to that which tore apart your homeland.
-6.  An Imaginary Friend You Had As a Child. Ask yourself: who were they and what could they do? The item possesses the power to call forth that very friend into reality to aid you in your journey for a short time.
+## What Remembrance Does It Evoke?
+1. **Comfort and Security.** Ask yourself: what or who kept you safe during the war? The item possesses the power to bring you to safety or protect you using that very form.
+2.  **A Lost Love.** Ask yourself: who did you love and how did you lose them? The item possesses the power to point you in the direction of something you now seek and provide the best path you can take to get it.
+3.  **Your Parents.** Ask yourself: what do you wish to remember about them? The item possesses the power to communicate with them one last time. You may ask them any question, which they will answer truthfully.
+4.  **Better Times.** Ask yourself: what are your fondest memories of your homeland? The item possesses the power to let you relive those memories with someone else of your choosing.
+5.  **War.** Ask yourself: what do you wish to forget? The item possesses the power to call forth destruction and terror akin to that which tore apart your homeland.
+6.  **An Imaginary Friend You Had As a Child.** Ask yourself: who were they and what could they do? The item possesses the power to call forth that very friend into reality to aid you in your journey for a short time.

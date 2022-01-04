@@ -32,7 +32,7 @@ Note that having a weaving listed as a skill doesn't give you special advantages
 ## How Skills Work
 When you use a skill, you roll a number of dice equal to the skill's rating. So if you have a rating of 3, you roll *three dice*. Then, look at the highest rolled result:
 - If it's a 6, you manage to use your skill to complete your objective in the scene.
-- If it's *not* a 6, you still use your skill to complete your objective (you can't fail in that regard), but the skill becomes **Complicated**. [#Lexi: Style note for this and Injured, below: when is it capitalized and when is it not?]
+- If it's *not* a 6, you still use your skill to complete your objective (you can't fail in that regard), but the skill becomes **complicated**.
     > A complicated skill means that something happens as a result of your actions that hurts you or someone else in ways you didn't expect, and until you repair that harm you can't use the same skill again.
     >
     > Complicated skills are repaired during **group scenes**.
@@ -40,7 +40,7 @@ When you use a skill, you roll a number of dice equal to the skill's rating. So 
 ### Avoiding Complications
 You might not want to suffer the complications related to your actions in that scene. You can do this by asking another player to roll a **weaving die** on your behalf, invoking the power of the world's memories. More information on that is provided in the [Weaving Dice](/dice/) chapter, but briefly, the other player chooses a type of memory for the weaving, and then rolls a single d6 to determine the effects:
 - On anything other than a 1 or 6, the weaving completes without incident (more or less).
-- On a 1 or 6, the weaving either does too little or becomes an uncontrolled catastrophe that you then must deal with on your own to stop things from getting even worse. In either case, the suit for the skill you used in that scene becomes **Injured**.
+- On a 1 or 6, the weaving either does too little or becomes an uncontrolled catastrophe that you then must deal with on your own to stop things from getting even worse. In either case, the suit for the skill you used in that scene becomes **injured**.
     > An injured suit means that you have wounded or overexerted yourself in a serious way, and until you take time to recover, you cannot use *any* skill from that suit.
     > 
     > You can recover an injured suit by playing through the [A Moment Alone](/play-modes/alone/) play mode, which normally takes the place of an **individual scene** for your character.

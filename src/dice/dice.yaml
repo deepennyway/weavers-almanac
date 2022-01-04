@@ -2,7 +2,7 @@ tags: Weaving Dice
 parent: Weaving Dice
 sort: 3
 layout: "dice.njk"
-description: Describe the die itself [#Lexi: or, "Describe the Weaving Die itself" here. Your call, as mentioned elsewhere.]. What does it look like physically? How are its surfaces decorated? What does it make you feel when you look at it? Does it make a sound when you roll it?
+description: Describe the die itself. What does it look like physically? How are its surfaces decorated? What does it make you feel when you look at it? Does it make a sound when you roll it?
 effect:
     bend: |
         The Bend effect of a weaving die is subtle, barely perceptible to the untrained eye. What does this die do that only the weaver will notice? Bend effects are minor, and rarely yield negative consequences. 

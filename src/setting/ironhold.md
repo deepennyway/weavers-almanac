@@ -30,7 +30,7 @@ You find yourselves here, in the Weeping City, on a day of celebration. At some 
 Every day in Ironhold’s embrace presents new challenges. Use the skills you bring with you to meet the needs of the city and of the people who reside there with you.
 
 ### Deck Burner
-Somebody is causing irreparable harm to Ironhold, and has holed themselves up in the city’s heart. You know them, from encounters you’ve had with them in the past. Find your Adversary, and get them to leave the city alone. If you don’t, the city themself [#Lexi: If this stays 'themselves,' which is also fine, we need to normalize another 'themself' or two to 'themselves' elsewhere] might not survive the night.
+Somebody is causing irreparable harm to Ironhold, and has holed themselves up in the city’s heart. You know them, from encounters you’ve had with them in the past. Find your Adversary, and get them to leave the city alone. If you don’t, the city themself might not survive the night.
 
 ### Laid to Rest
 The time has come to leave Ironhold, for better or worse. Use this time to remember the friends you made, and those you left behind. How do you say goodbye to a place like this?

@@ -8,7 +8,7 @@ sort: 3
 order: 8
 ---
 
-[#Lexi: Style check: "[the set of] Weaver's Dice" or "[a] Weaving Die" capitalized for them collectively?] The Weaver's Dice are a special set of dice that a weaver keeps safe, separate from their other play materials. Some weavers keep these dice in individually housed containers, ready to produce at a moment's notice. Others keep them together in a bag. There's no one right way to store your Weaver's Dice.
+The Weaver's Dice are a special set of dice that a weaver keeps safe, separate from their other play materials. Some weavers keep these dice in individually housed containers, ready to produce at a moment's notice. Others keep them together in a bag. There's no one right way to store your dice.
 
 The entries in this chapter describe thirteen of the most common dice in the world of Mnemonic. If none of them fit your specific needs, you can develop your own using the template provided.
 

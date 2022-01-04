@@ -6,7 +6,9 @@ description: A ritual for saying good-bye to a character, or to a story.
 type: chapter
 ---
 
-Sometimes the tools we bring with us aren’t enough. Sometimes magic isn’t enough. Sometimes we don’t all make it back. [#Lexi: A little odd-looking on the web page. Lengthening or shortening the first line a little might help that? I can explain in detail if it's not apparent why.]
+Sometimes the tools we bring with us aren’t enough.
+
+Sometimes we don’t all make it back.
 
 Sometimes none of us do.
 

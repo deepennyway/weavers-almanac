@@ -1,6 +1,6 @@
 ---
 edited: Yes
-title: The Wide Sea & The Keeper[#Lexi: Iffy about the capital on second "The" but it doesn't REAAAALLY matter]
+title: The Wide Sea & the Keeper
 byline: sin
 type: chapter
 artist: sin
@@ -18,10 +18,6 @@ Past the Viper Whorls and the Seaking’s Rest, where the sea foam turns gold by
 The turles, massive as they were, overturned every sea rock and boulder and even dug into the seabed as they searched, trying hard to find the lost pearls. This caused the earth to split and shift, giving birth to some of the isles that we know of today. Alas, despite their persistence, they could not find all the pearls.
 
 This is why I asked you if you wish to have your wish granted—because the godling grants the wishes of whoever finds those pearls. Would you dare take the plunge? How deep would you go for your precious wish?
-
-[#Lexi: This setting has no questions, or at least doesn't separate the questions above, so there's a broken empty question box here because of the format break]
-
-***
 
 ## Heist on the Seas
 One of the Keeper’s pearls is rumored to have been found by the famous Featherbane Auction House, which holds exclusive auctions while cruising around Blue Jay Bay. What’s more, the notorious warmachine monger Halzen Lockheart has his eyes on the pearls. You, however, have other plans for the pearl.

@@ -14,7 +14,7 @@ However, as sentient beings often do, some cities feel discontent or sorrow with
 > - What do you remember about the Unforgotten City?
 > - What is the Unforgotten City called where you come from?
 > - How do you honor the city when you tell this story?
-> - What does this story teach you about letting go? [#Lexi: Maybe check that the lower case in the questions as opposed to the capitalization later didn't hold a specific meaning? 🤔]
+> - What does this story teach you about letting go?
 ***
 
 ## Story Arc: Of Fear and Forgetting

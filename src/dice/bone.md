@@ -8,7 +8,7 @@ eleventyNavigation:
 byline: pammu
 artist: sin
 art: bone.png
-arttext: Bone Die <-- Reminder that this probably is not an adequate alt text!
+arttext: A watercolor portrait of a skeletal human figure, adorned with wreaths of pink, yellow, and purple flowers. Between the flowers, the figure's living flesh appears.
 description: "The Bone Die is a primordial thing: the dark brown of deep depths beneath the earth encased in the sharp, glistening white of creatures long dead. When you hold it up against the light, you may see flashes of color, like the fragments of a soul."
 effect:
     bend: You shake an old memory loose from your bones, from the bones of the mortal you are touching, or the bones that you may be holding in your hands. It is more feelings, impressions, and odd flashes than anything else, enough to raise more questions than answers.

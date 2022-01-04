@@ -36,10 +36,16 @@ Scattered into the wind.
 
 Tell the dust that settles:
 
-	You no longer have power over me.
-	Nor will I continue letting you cause me pain.
-	I have learned and grown so much.
-	And I will keep doing so without you.
-	It is time to move on.
-	It is time to for a new remembering,
-	One better than the last.
+> You no longer have power over me.
+>
+> Nor will I continue letting you cause me pain.
+>
+> I have learned and grown so much.
+>
+> And I will keep doing so without you.
+>
+> It is time to move on.
+>
+> It is time to for a new remembering,
+>
+> One better than the last.

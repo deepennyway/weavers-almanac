@@ -9,7 +9,7 @@ byline: synxiec
 texture: burn3.png
 artist: sin
 art: rain.png
-arttext: Rain Die
+arttext: A rain cloud pours down thick sheets of rain. The mechanical bronze arms of a mechanical humanoid figure reach out from the water, either enthralled or baffled by the deluge.
 description: The Rain Die is a deep aquamarine with moss-covered numbers that ripple when they are touched. Clouds of various shapes dance around its heart. 
 effect:
     bend: A fine mist beings to fall. It is cool and refreshing as it touches your skin. 

@@ -3,7 +3,6 @@ edited: Yes
 title: "Template"
 order: -1
 ---
-[#Lexi: The header box that isn't in this file needs no edits except maaaaybe changing "Describe the die itself" to "Describe this Weaving Die itself" if you feel like it. Not necessary, and I'm not sure if I think it's better that way.]
 
 The opening text for your new die should contain three body-length paragraphs, each paragraph addressing one of the following:
 

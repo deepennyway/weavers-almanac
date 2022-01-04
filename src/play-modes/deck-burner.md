@@ -19,6 +19,4 @@ After each round of scenes, take a short break to let everyone breathe, stretch,
 
 > Need to pick it up later? That's okay! You don't need to keep track of which cards were played for this; just shuffle the deck anew next time and pick up the story where you left off.
 >
-> For pacing, I recommend always starting with Escalation [#Lexi: Capitalized reference is unclear. This doesn't appear to be an established term?]; that way you don't have to keep track of Complications between sessions, and you can track them during the session however works best for you and your group.
-
-[#Lexi: Possible rewrite: For pacing, I recommend ending your first session with a *Deck Burner* concluding with a Group Scene that escalates the conflict. That way, you don't have to keep track of accumulated Complications between sessions.]
+> Possible rewrite: For pacing, I recommend ending your first session with a *Deck Burner* concluding with a Group Scene that escalates the conflict. That way, you don't have to keep track of accumulated Complications between sessions.

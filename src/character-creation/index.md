@@ -1,4 +1,3 @@
-EDITED: Yes. Minor grammatical changes and flow recommendations, some optional changes or thoughts to consider. Casual disregard for the existence of the word "whom" because it's probably going to be gone from English entirely by 2030 anyway.
 ---
 title: Character Creation
 parent: main

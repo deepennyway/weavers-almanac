@@ -7,7 +7,7 @@ eleventyNavigation:
     parent: Dice
     order: 1
 art: wind.png
-arttext: "Wind Die"
+arttext: A headless dancer in a blue blouse, yellow shorts, pink shoes, and white stockings stands in a pose with arms outstretched, their head invisible behind a blank window frame. A series of autumn leaves blow through the window.
 artist: sin
 description: The Wind Die is a translucent blue, its edges sharp as blades, its faces smooth and cool. Its heart is a constant spinning tempest, whistling its strong winds to your ears, as if it were a storm that was just out of your range of sight. Sometimes, if you look really closely, you can see something spinning within that storm. 
 effect:

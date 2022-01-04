@@ -9,14 +9,16 @@ byline: Dee, the Weaver in Green
 layout: chapter-start.njk
 ---
 
-Once you've all made characters and are ready to begin telling their story, it's time to choose a mode of play. In *Mnemonic* there are four [#Lexi: Which 4 of these? Or is that number outdated?] such modes:
+Once you've all made characters and are ready to begin telling their story, it's time to choose a mode of play. In *Mnemonic* there are four such modes:
 
-- **First Gathering:** A short introduction to everyone's characters, letting the players bring their characters into the story. [#Lexi:  Might be good to make this, and the others, direct links?]
-- **Into the Grey:** An extended exploration of the story's key elements, from people and places to important objects and events. This mode is intended to last multiplay play sessions.
-- **Deck Burner:** A fast-paced resolution to the story's main conflict or to one of its many smaller conflicts.
-- **A Moment Alone:** A brief ritual for clearing injuries from skills and reflecting on a character's choices.
-- **Laid to Rest:** A somber ritual for saying good-bye to a character or to the story as a whole.
-- **Game Face:** A short game for settling scores between players' characters.
+- **[First Gathering:](first-gathering)** A short introduction to everyone's characters, letting the players bring their characters into the story.
+- **[Into the Grey:](into-the-grey)** An extended exploration of the story's key elements, from people and places to important objects and events. This mode is intended to last multiplay play sessions.
+- **[Deck Burner:](deck-burner)** A fast-paced resolution to the story's main conflict or to one of its many smaller conflicts.
+- **[Laid to Rest:](laid-to-rest)** A somber ritual for saying good-bye to a character or to the story as a whole.
+
+In addition, there are two short games designed to be usable during any other play mode, which should take no more than a few minutes to resolve:
+- **[A Moment Alone:](alone)** A brief ritual for clearing injuries from skills and reflecting on a character's choices.
+- **[Game Face:](gameface)** A short game for settling scores between players' characters.
 
 In order to play *Mnemonic*, everyone will need to have a character journal prepared, as well as some numbered six-sided dice ready to roll (two per person should be plenty, at least for the first time you play). Your group will also need a standard 54-card poker deck, which need to be shuffled and/or divided as needed by the mode you choose.
 

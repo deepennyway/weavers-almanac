@@ -1,4 +1,3 @@
-EDITED: Yes. No changes necessary.
 ---
 title: The Engineer
 tagline: Queen of Spades

@@ -8,19 +8,19 @@ weight: 2
 
 Every culture shares stories that inspire courage, share knowledge, and teach wisdom. Among those stories is one about a drought, the five weavers that brought rain to end it, and the wisdom they left for those who would come after them. 
 
-Some say these stories are our only memories of the first weavers. While the number of weavers varies from one story to another, it is most commonly known as the Tale of Five Strings, told every year during the harvesting season around friends and family at a warm campfire [#Lexi: Changed because of an awkward shift in the sense of "around" - from "around these people [in the presence of]" to "around a campfire" [circling it like a hearth] which is a little weird]. 
+Some say these stories are our only memories of the first weavers. While the number of weavers varies from one story to another, it is most commonly known as the Tale of Five Strings, told every year during the harvesting season around friends and family at a warm campfire. 
 
 > **_If you tell a story that includes the Five Strings, consider the following:_**
 > *   _Where did you first hear the story of the Five Strings?_
 > *   _In the story you learned, where did the drought take place?_
 > *   _How do you prepare to tell this story?_
-> *   _What does this story teach you about the <span style="text-decoration:underline;">purpose</span> of power?_
+> *   _What does this story teach you about the **purpose** of power?_
 
 ***
 
 ## Story Arc: A Turn of the Loom
 
-In this story, we imagine ourselves as the weavers at the center of it [#Lexi: Avoiding repetition of "in this story." Could be done other ways just as well.]. We walk the world in their shoes, finding others who are on the cusp of emerging as weavers like themselves.
+In this story, we imagine ourselves as the weavers at the center of it . We walk the world in their shoes, finding others who are on the cusp of emerging as weavers like themselves.
 
 ### First Gathering
 

@@ -8,12 +8,12 @@ eleventyNavigation:
 byline: guanzon
 artist: sin
 art: green.png
-arttext: 🤔
+arttext: A pair of human arms with green vegetation growing out of the skin.
 description: The Green Die is a warm cube of compressed glass. At a glance, it may appear a plunging black, but time and observation exhumes a spectrum of verdant green. Nested in its faces are indecipherable counts of pips, changing the more certain you think you are of their numbers. 
 effect:
     bend: You recall a time when the world filled you with wonder and excitement. An uncanny emissary provides you with a vital piece of information. 
     weave: You remember a time when a beast instilled deep fear in you. A similar beast is summoned, and will accept one command from you. When this command is completed, they mark you before departing.  
-    fray: You remember a moment when the line between you and the world around you was indiscernible. A stampede of plants, animals, and insects arrives. They can be herded, but will continue to trample until the weaving ends. Whatever remains of the swarm, they will scatter back into the world leaving whatever wake you had brought. [#Lexi: Meaning of that last sentence is a little ambiguous. Would "Whatever remains ofthe swarm will scatter back into the world, leaving in its wake whatever you had brought." be good?]
+    fray: You remember a moment when the line between you and the world around you was indiscernible. A stampede of plants, animals, and insects arrives. They can be herded, but will continue to trample until the weaving ends. Whatever remains of the swarm will scatter back into the world, leaving in its wake whatever you had brought.
     tear: You tap into a long memory of molten earth and churning seas. It may or may not be your own. The environment distorts itself suddenly and violently, with little regard for its own dominion. The lands will remember what you have done to them. 
 ---
 

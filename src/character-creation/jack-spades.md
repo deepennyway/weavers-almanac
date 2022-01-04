@@ -1,4 +1,3 @@
-EDITED: Yes. No changes necessary.
 ---
 title: The Fighter
 tagline: "Jack of Spades"

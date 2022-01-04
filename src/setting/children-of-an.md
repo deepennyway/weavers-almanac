@@ -5,7 +5,7 @@ byline: nic
 type: chapter
 ---
 
-It was long ago, in a time before time, that Enki the Earth and An the Sky glimpsed each other. Both infinite in their power and majesty, it was their antipodal differences that first drew them to each other, though those differences initially shocked and repulsed—so much so that, shortly after that fateful first glance, Earth and Sky warred for six days and seven nights in that timeless[#Lexi: Timeless is a weird word choice here since time is so emphasized otherwise], primordial chaos. Upon the seventh day their warlike embrace became a loving one, and the union of Earth and Sky produced children that were not entirely of one world or the other, but who stood upon both.
+It was long ago, in a time before time, that Enki the Earth and An the Sky glimpsed each other. Both infinite in their power and majesty, it was their antipodal differences that first drew them to each other, though those differences initially shocked and repulsed—so much so that, shortly after that fateful first glance, Earth and Sky warred for six days and seven nights in that timeless, primordial chaos. Upon the seventh day their warlike embrace became a loving one, and the union of Earth and Sky produced children that were not entirely of one world or the other, but who stood upon both.
 
 Enki and An's love was not to last, for soon Enki began to look past An and into the stars while An’s gaze began to drift from Enki to stare upon their own reflection in the vast, wide sea. Their estrangement tore the Earth and the Sky apart forever and left both populated with the Children of An and Enki: those in between, the liminal folk, who freely walk between Earth and Sky yet belong to neither.
 

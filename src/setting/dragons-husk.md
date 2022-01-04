@@ -9,7 +9,7 @@ type: chapter
 weight: 2
 ---
 
-Not every dragon was wiped out of existence in the same moment; there were plenty of the foul creatures who were slain in combat, their corpses falling to land heavily in forests, marshes, oceans. Over the many years since its death [#Lexi: "Deaths" unless that must mean, very specifically, a singular dragon (they/them back when it was alive) dying. Otherwise, "their deaths" or "its death" (i.e. this husk's corresponding death) would be my preference. Because there's the echo later, I sort of like distinguishing between the dragon's body/husk, their old self, and their echo], the largest of the husks remains a feature in the landscape, its hollow corpse having developed a thriving natural ecosystem for plants, animals, and other forms of life.
+Not every dragon was wiped out of existence in the same moment; there were plenty of the foul creatures who were slain in combat, their corpses falling to land heavily in forests, marshes, oceans. Over the many years since their deaths, the largest of the husks remain features in the landscape, their hollow corpses having developed thriving natural ecosystems for plants, animals, and other forms of life.
 
 Yet the world has a hard time letting these monsters go, and echoes wander about the place—many of warriors who were eaten or torn apart by the dragon's fury. Some of them are friendly. Others know only anger at an existence that will never end.
 

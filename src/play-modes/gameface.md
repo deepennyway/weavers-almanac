@@ -17,11 +17,14 @@ Game Face is a dice-based ritual, for which you’ll need:
 *   One twelve-sided die (d12)
 *   Something opaque that you can use to hide your die, like a cup or mug.
 
-Each participating character’s different Suits are assigned a **Suit Die** value: [#Lexi: Maybe make this a proper table?]
+Each participating character’s different Suits are assigned a **Suit Die** value:
 
-*   Strong Suit = d12
-*   Weak Suit = d6
-*   Remaining two suits = d8
+| Suit | Die |
+| :-- | -: |
+| Strong Suit | d12 |
+| Weak Suit | d6 |
+| Remaining Two Suits | d8 |
+
 
 ## How the Ritual Works
 
@@ -29,9 +32,7 @@ Game Face consists of three rounds of contested die rolls. The character who win
 
 At the start of each round, participating players select one of their Suit Dice to roll, representing the kinds of approach or skills they will use to gain the upper hand in this round of the contest. Any one die can be used for any roll, but each **Suit Die** may only be used once per three-round ritual.
 
-	
-
-Before rolling, both players describe the approach their characters are using to claim victory. This description should *roughly* correspond to the Suit (pp.2 of the Core Rules [#Lexi: If pages are an appropriate way to express this?]) each die is assigned to. A player whose first round die is assigned to Clubs wouldn’t describe leaping over an obstacle, for instance.
+Before rolling, both players describe the approach their characters are using to claim victory. This description should *roughly* correspond to your group's shared understanding of the suit each die is assigned to. A player whose first round die is assigned to Clubs wouldn’t describe leaping over an obstacle, for instance.
 
 **However.**
 
@@ -41,21 +42,18 @@ After both players describe their approach, each rolls simultaneously in secret,
 
 In addition, if a player that wins a round for having the higher die roll and *also* has a higher total than their opponent across all rounds, they gain the added benefit of a +1 bonus to their next roll.
 
-The example on the next page [#Lexi: "page"] will help clarify this:
+The example below will help clarify this:
 
 > ### Example of +1 Bonus Scenario:
 > 
-> Player 1: Rolls a 5 on a d6 [#Lexi: Giving some made-up names would probably make this a lot more readable instead of Player 1 getting +1 in Round 2, etc.]
-> Player 2: Rolls a 4 on a d6 [#Lexi: Also, these lines are NOT broken up correctly on the web page.]
+> Jeff rolls a 5 on a d6.
+>
+> Emily rolls a 4 on a d6.
 > 
-> Player 1 wins the first round, securing a +1 bonus to their Round 2 roll. However, this does not always apply. See this example of the next roll in Round 2, taking into account the results above:
+> Jeff wins the first round, securing a +1 bonus to their Round 2 roll. However, this does not always apply. See this example of the next roll in Round 2, taking into account the results above:
 > 
-> Player 1: Rolls a 3 on a d12. Then, they add the +1 bonus for a total of 4.
-> Player 2: Rolls a 5 on a d8.
+> Jeff rolls a 3 on a d12. Then, they add the +1 bonus for a total of 4.
+>
+> Emily rolls a 5 on a d8.
 > 
-> Even with the +1 from the first round, Player 1 can’t overcome their crummy luck. Player 2 wins the second round, but because their total across two rounds (4+5=9) isn’t higher than Player 1’s (5+4=9), no +1 bonus is issued for the tie-breaking final round.
-
-[#Lexi: Some things that may need to be covered:
-- For the winmore/crit mechanic, be explicit that the +1 value is permanent - it counts for that round and all future rounds, inasmuch as that matters since it only goes to three rounds (and that, after a 1-1 score) anyway.
-- What happens in the event of a drawn round? What if some number of successive ties makes the players run out of dice? Etc.]
-
+> Even with the +1 from the first round, Jeff can’t overcome their crummy luck. Emily wins the second round, but because their total across two rounds (4+5=9) isn’t higher than Jeff's (5+4=9), no +1 bonus is issued for the tie-breaking final round. Jeff's +1 bonus from the first round does not carry over either.

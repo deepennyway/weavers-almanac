@@ -3,19 +3,19 @@ edited: Yes
 title: The Temptation of the Weavers
 byline: sen
 weight: 2
-downloads:
-    The Temptation of the Weavers (pdf): /pdf/Mnemonic (The Temptation of the Weavers).pdf
-    The Temptation of the Weavers (mp3): /music/Mnemonic_The_Temptation_of_the_Weavers_Piano.mp3
 type: chapter
 ---
 
 For eons, a rift or echo would appear, humming a haunting tune. Practiced weavers, in particular, hear a choir singing in harmonious clarity, and are known to be lured away from the world as a result.
 
-> This piece includes an audio track, as well as sheet music, if you want to sing along. [#Lexi: Extremely broken formatting on the web page, Leaving the lyrics alone, but the box here is very nonfunctional]
+> This piece includes an audio track, as well as sheet music, if you want to sing or play along.
 > 
-> {{<downloads>}}
+> - [The Temptation of the Weavers (PDF)](/attachments/Temptation%20Sheet%20Music.pdf)
+> - [The Temptation of the Weavers (MP3)](/attachments/Temptation%20of%20the%20Weavers.mp3)
 > 
-> {{<music>}}Mnemonic_The_Temptation_of_the_Weavers_Piano.mp3{{</music>}}
+> Play the song:
+>
+> <audio controls src="/attachments/Temptation%20of%20the%20Weavers.mp3">Your browser does not support the <code>audio</code> element.</audio>
 
 ## Lyrics
     Weft undrawn and warp unstrung
@@ -32,8 +32,8 @@ For eons, a rift or echo would appear, humming a haunting tune. Practiced weaver
 
     (We)avers, (Dream)ers
     (As)k the (won)oneders
-    (W)wehere the (ma)mayge’s
-    (be)en and (wan)onedered
+    (We)here the (may)mage’s
+    (be)en and (one)wandered
 
     (We)avers, (Dream)ers
     (Of)fer (a)nswers
@@ -49,18 +49,18 @@ For eons, a rift or echo would appear, humming a haunting tune. Practiced weaver
     (Moon)light (yawn)yawning and (stars)tream (run)running
     Work (until) the (sun has sunk)sun is sinking
     (Strike) a match in the (dark) posthaste
-    Light the (wick)weak and (ill)willeduminate
+    Light the (weak)wick and (willed)illuminate
     The tapestry world (we await) and work to create
 
     (We)avers, (Dream)ers
     (As)k the (won)oneders
     (In) this (dark)ness 
-    (w)wehere he (hid) her
+    (we)here he (hid) her
 
     (We)avers, (Dream)ers
     (Of)fer (a)nswers
     (Bright)en (fur)farther 
-    (be)ings (yon)yond
+    (be)ings (yond)yon
 
     Whispers of Lace
     Darn without trace
@@ -78,7 +78,7 @@ For eons, a rift or echo would appear, humming a haunting tune. Practiced weaver
 
     (We)avers, (Dream)ers
     (Of)fer (a)nswers
-    (Free) the (dawn)dom that 
+    (Free) the (dom)dawn that 
     (shall) be(come)
 
     Carried on
@@ -87,8 +87,8 @@ For eons, a rift or echo would appear, humming a haunting tune. Practiced weaver
 
     (We)avers, (Dream)ers
 	(As)k the (won)oneders
-	(W)wehere the (ma)mayge’s 
-	(be)en and (wan)onedered
+	(W)here the (may)mage’s 
+	(be)en and (one)wandered
 
 ## Interpreting the Interwoven
 Taking the first chorus as an example:
