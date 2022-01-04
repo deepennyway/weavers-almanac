@@ -1,15 +1,17 @@
 ---
+edited: Yes
 title: The First Ritual
 weight: 1
 type: chapter
 ---
+
 Here it is, the first ritual that was ever created, the one that started the practice of weaving. Or maybe it wasn't the first. But it's the first one we know of that was written down.
 
 We don't know who wrote it.
 
 ***
 
-**This is how we say good-bye, to those we will never see again.**
+**This is how we say good-bye to those we will never see again.**
 
 First, you must wipe the tears from your face.
 
@@ -25,7 +27,7 @@ First, wipe them away.
 
 Thank them for reminding you of the place in your life that is now empty.
 
-Turn your eyes, if you can, to the leaving, or the departed.
+Turn your eyes, if you can, to the leaving, or to the departed.
 
 Tell them, so they can hear you:
 
