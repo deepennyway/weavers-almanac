@@ -1,4 +1,5 @@
 ---
+edited: Yes
 title: Morning Coffee
 byline: deepennyway
 weight: 2
@@ -7,9 +8,9 @@ type: chapter
 
 I don’t always have the energy to get out the big press and wait five minutes. I don’t have the devices to use paper filters, and my coffee is too coarse for that anyway.
 
-What do I have? A mesh kitchen strainer, a liquid measuring cup, and a mug. So let’s make some coffee.
+What do I have? A mesh kitchen strainer, a liquid measuring cup, and a mug. So, let’s make some coffee.
 
-## Making A Cup of Coffee When All You Have Is  A Mesh Strainer, A Liquid Measuring Cup, And A Mug
+## Making A Cup of Coffee When All You Have Is A Mesh Strainer, A Liquid Measuring Cup, And A Mug
 
 First, make sure your coffee is ground coarse, as coarse as it would need to be for a coffee press. (If you get your coffee from a store, ask them to grind it “As coarse as you can make it”)
 
